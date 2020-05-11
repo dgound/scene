@@ -2,6 +2,8 @@
 
 ./SCENE is an attempt at archiving the Greek underground music scene using a data-driven approach.
 
+Visit ./SCENE at: https://dgound.github.io/scene/index.html
+
 Method
 ------
 
