@@ -1,68 +1,51 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <!-- CALL CUSTOM STYLES -->
-<link rel="stylesheet" href="styles.css" type="text/css" />
-    <!--  -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About — ./SCENE</title>
+  <meta name="description" content="About ./SCENE, a graph-based archive of the Greek underground music scene.">
+  <meta property="og:title" content="About — ./SCENE">
+  <meta property="og:description" content="A graph-based archive of the Greek underground music scene.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23222'/%3E%3Ctext x='16' y='22' font-family='monospace' font-size='18' font-weight='700' text-anchor='middle' fill='%23fff'%3E./S%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css" type="text/css">
+</head>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<body id="body_a" data-page="about">
+  <header data-shared></header>
 
-    <!-- ADD META and TITLE -->
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width">
-<title>./SCENE</title>
+  <main id="about">
+    <p>./SCENE is an attempt at archiving the Greek underground music scene using a data-driven approach.</p>
 
+    <h2>Method</h2>
 
-<body id='body_a'>
+    <h3>Graph</h3>
+    <p>The scene is modelled as a graph where each node represents a band. For the moment, only bands that have at least one EP released are considered.</p>
 
+    <h3>Nodes and edges</h3>
+    <p>An edge is placed between two nodes if they share at least one band member (either as a full-time member or as a guest on an official release).</p>
 
-    <header>
-    <div class = "container">
+    <h3>Weights</h3>
+    <p>Edges are weighted by the number of members shared between two bands — thicker edges correspond to more shared members. Nodes are sized by their number of neighbours, so larger nodes correspond to bands with more collaborations and side projects.</p>
 
-        <!-- <img src="scene_logo.png", alt='logo', class='logo'> -->
-        <h1 class="logo">./SCENE<sup> a data-driven archive</sup></h1>
+    <h3>Tools</h3>
+    <p>The graph was created using the <a href="https://pyvis.readthedocs.io/" rel="noopener noreferrer">pyvis</a> Python library. The output was post-produced with HTML5 and CSS3.</p>
 
-        <nav>
-            <ul>
-                <li><a href="index.html">Graph</a></li>
-                <li><a href="about.html">About</a></li>
-            </ul>
-        </nav>
-    </div>
-    </header>
+    <p>./SCENE is a work in progress. If you would like to submit info for additional bands or provide feedback/corrections, please write to: <a id="contact" href="#">enable JavaScript for email</a>.</p>
 
+    <p class="byline">Dimos Goundaroulis, May 2020, Houston TX USA.</p>
+  </main>
 
-    <div id='about'>
-        <p id='about_p'>    
-        ./SCENE is an attempt at archiving the Greek underground music scene using a data-driven approach.
-        <br> <br>
-
-        <u>Method</u>
-
-        <br> <br>
-        Graph:<br>
-        The scene is modelled as a graph where each node of the graph represents a band. For the moment, only bands that have at least one EP released are considered. 
-
-        <br> <br>
-        Nodes and edges:<br>
-        An edge is placed between two nodes if they share at least one band member (either as a full-time member or a guest at an official release).
-
-        <br> <br>
-        Weights: <br>
-        Edges are weighted based on the number of members that are shared between two bands. Thicker edges correspond to larger number of common members between the two bands.
-        Nodes are weighted by the number of neighbors. Larger nodes correspond to bands that have larger number of collaborations/side-projects.
-
-
-        <br> <br>
-        Tools:<br>
-        The graph was created using the pyvis python library. The output was post-produced using HTML5 and CSS3.
-
-        <br> <br>
-        ./SCENE is a work in progress. If you would like to submit info for additional bands or provide feedback/corrections/etc, please write to:<br> <center>dgkounta (at) gmail (dot) com.</center>
-        <br><br><br>
-        Dimos Goundaroulis, May 2020, Houston TX USA.
-        </p>
-    </div>
-
+  <script src="js/header.js"></script>
+  <script>
+    (function () {
+      var user = 'dgkounta';
+      var domain = 'gmail.com';
+      var a = document.getElementById('contact');
+      a.href = 'mailto:' + user + '@' + domain;
+      a.textContent = user + '@' + domain;
+    })();
+  </script>
 </body>
 </html>

@@ -20,6 +20,20 @@ Nodes are weighted by the number of neighbors. Larger nodes correspond to bands 
 ### Tools:
 The graph was created using the pyvis python library. The output was post-produced using HTML5 and CSS3.
 
+Project layout
+--------------
+
+```
+index.html       graph page (loads data/scene.json via fetch)
+about.html       about page
+styles.css       shared styles
+data/scene.json  nodes + edges, generated from the pyvis output
+js/header.js     shared header (rendered into <header data-shared>)
+js/graph.js      vis-network bootstrap, popup, search, loading bar
+```
+
+To update the archive, edit `data/scene.json` directly (no HTML changes needed) or regenerate from pyvis and re-extract.
+
 
 ./SCENE is a work in progress. If you would like to submit info for additional bands or provide feedback/corrections/etc, please write to: dgkounta (at) gmail (dot) com.
 

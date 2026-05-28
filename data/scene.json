@@ -1,0 +1,3141 @@
+{
+  "nodes": [
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Chickn",
+      "label": "Chickn",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://innerear-chickn.bandcamp.com/album/chickn\"><b>Chickn</b></a> are related to 7 bands: </u> <br><br>A Victim of Society<br>Baby Guru<br>Canister Jaws<br>Electric Feat<br>Kid Flicks<br>Prins Obi<br>Social End Products<br>",
+      "value": 7
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "A Victim of Society",
+      "label": "A Victim of Society",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://avictimofsociety.bandcamp.com/releases\"><b>A Victim of Society</b></a> are related to 1 bands: </u> <br><br>Chickn<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Canister Jaws",
+      "label": "Canister Jaws",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ghostarmour.bandcamp.com/music\"><b>Canister Jaws</b></a> are related to 16 bands: </u> <br><br>Adolf Plays the Jazz<br>Bored Witch<br>Catechumen<br>Chickn<br>Cruel Anagrams<br>Dharma Scum<br>Electric Feat<br>Kid Flicks<br>Mother Disobedience<br>Nibiru<br>Ramdat<br>Sans Corps<br>Shiverdrain<br>Social End Products<br>The You and What Army Faction<br>Vanishing Women<br>",
+      "value": 16
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Adolf Plays the Jazz",
+      "label": "Adolf Plays the Jazz",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://adolfplaysthejazz1.bandcamp.com/\"><b>Adolf Plays the Jazz</b></a> are related to 4 bands: </u> <br><br>Amberclock<br>Canister Jaws<br>Dharma Scum<br>Ramdat<br>",
+      "value": 4
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Dharma Scum",
+      "label": "Dharma Scum",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ghostarmour.bandcamp.com/music\"><b>Dharma Scum</b></a> are related to 14 bands: </u> <br><br>Adolf Plays the Jazz<br>Bored Witch<br>Canister Jaws<br>Catechumen<br>Fervent<br>Misuse<br>Nibiru<br>Ramdat<br>Shiverdrain<br>Thanatoth<br>The You and What Army Faction<br>Traps of Doom<br>Vanishing Women<br>Weapons of Ass Destruction<br>",
+      "value": 14
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Ramdat",
+      "label": "Ramdat",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ramdat.bandcamp.com/\"><b>Ramdat</b></a> are related to 15 bands: </u> <br><br>Adolf Plays the Jazz<br>Canister Jaws<br>Chain Cult<br>Dharma Scum<br>Gutter<br>Junkheart<br>Lifewreck<br>Mammock<br>Mother Disobedience<br>Nibiru<br>Nurse of War<br>Sans Corps<br>The Coal<br>Timetrap<br>Αυτοσχεδιαστικό Τρίο<br>",
+      "value": 15
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Procrastinate",
+      "label": "Procrastinate",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://procrastinatecrust.bandcamp.com/\"><b>Procrastinate</b></a> are related to 10 bands: </u> <br><br>Ania<br>Calf<br>Deacidified<br>Deathvalves<br>Human Parasites<br>Kalpa<br>Mortal Torment<br>Noir<br>Veil<br>Ädrallä<br>",
+      "value": 10
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Ädrallä",
+      "label": "Ädrallä",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://scullcrasherrecords.bandcamp.com/album/--2\"><b>Ädrallä</b></a> are related to 2 bands: </u> <br><br>Ania<br>Procrastinate<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Conjecture",
+      "label": "Conjecture",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://conjecture-project.bandcamp.com/\"><b>Conjecture</b></a> are related to 7 bands: </u> <br><br>Aenaon<br>Gas Masked Lestat<br>Liebchen<br>Ognena<br>Project merc<br>Septuagin<br>We came from waters<br>",
+      "value": 7
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Aenaon",
+      "label": "Aenaon",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://aenaon666.bandcamp.com/\"><b>Aenaon</b></a> are related to 1 bands: </u> <br><br>Conjecture<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Calf",
+      "label": "Calf",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://calfgreece.bandcamp.com/\"><b>Calf</b></a> are related to 6 bands: </u> <br><br>Akantha<br>Deacidified<br>Deathvalves<br>Mentor<br>Procrastinate<br>The You and What Army Faction<br>",
+      "value": 6
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Akantha",
+      "label": "Akantha",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://akantha.bandcamp.com/\"><b>Akantha</b></a> are related to 5 bands: </u> <br><br>Calf<br>Deacidified<br>Deathvalves<br>Humanimal Race<br>Mentor<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Deacidified",
+      "label": "Deacidified",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://deacidified.bandcamp.com/releases\"><b>Deacidified</b></a> are related to 11 bands: </u> <br><br>Akantha<br>Calf<br>Clamor of Existence<br>Deathvalves<br>Humanimal Race<br>L’Hiver<br>Mentor<br>Procrastinate<br>Theosis<br>Veil<br>Warcode<br>",
+      "value": 11
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Deathvalves",
+      "label": "Deathvalves",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://deathvalves.bandcamp.com/\"><b>Deathvalves</b></a> are related to 7 bands: </u> <br><br>Akantha<br>Calf<br>Deacidified<br>Humanimal Race<br>Mentor<br>Procrastinate<br>Veil<br>",
+      "value": 7
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Humanimal Race",
+      "label": "Humanimal Race",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/channel/UCMgNdHChucj2z64b5bz844A\"><b>Humanimal Race</b></a> are related to 8 bands: </u> <br><br>Akantha<br>Clamor of Existence<br>Deacidified<br>Deathvalves<br>L’Hiver<br>Mentor<br>Theosis<br>Warcode<br>",
+      "value": 8
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Mentor",
+      "label": "Mentor",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.metal-archives.com/bands/Mentor/48226\"><b>Mentor</b></a> are related to 6 bands: </u> <br><br>Akantha<br>Calf<br>Deacidified<br>Deathvalves<br>Humanimal Race<br>Veil<br>",
+      "value": 6
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Amberclock",
+      "label": "Amberclock",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://soundcloud.com/amberclock\"><b>Amberclock</b></a> are related to 1 bands: </u> <br><br>Adolf Plays the Jazz<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Ania",
+      "label": "Ania",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=2E9-buldEkY\"><b>Ania</b></a> are related to 2 bands: </u> <br><br>Procrastinate<br>Ädrallä<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Allochiria",
+      "label": "Allochiria",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://music.allochiria.com/\"><b>Allochiria</b></a> are related to 1 bands: </u> <br><br>Anticluster<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Anticluster",
+      "label": "Anticluster",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://anticluster.bandcamp.com/\"><b>Anticluster</b></a> are related to 1 bands: </u> <br><br>Allochiria<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Αυτοσχεδιαστικό Τρίο",
+      "label": "Αυτοσχεδιαστικό Τρίο",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://autosxediastikotrioto.bandcamp.com/releases\"><b>Αυτοσχεδιαστικό Τρίο</b></a> are related to 10 bands: </u> <br><br>Avlos<br>Bread Crumb<br>Mammock<br>Nibiru<br>Nurse of War<br>Outward Bound Trio<br>Ramdat<br>Sans Corps<br>Strovili Quintet<br>The Coal<br>",
+      "value": 10
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Avlos",
+      "label": "Avlos",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://avlos.bandcamp.com/releases\"><b>Avlos</b></a> are related to 1 bands: </u> <br><br>Αυτοσχεδιαστικό Τρίο<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Electric Feat",
+      "label": "Electric Feat",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://electricfeat.bandcamp.com/\"><b>Electric Feat</b></a> are related to 6 bands: </u> <br><br>Baby Guru<br>Canister Jaws<br>Chickn<br>Kid Flicks<br>Prins Obi<br>Social End Products<br>",
+      "value": 6
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Baby Guru",
+      "label": "Baby Guru",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://babyguru.bandcamp.com/\"><b>Baby Guru</b></a> are related to 4 bands: </u> <br><br>Chickn<br>Electric Feat<br>King Elephant<br>Prins Obi<br>",
+      "value": 4
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Teenage Lobotomy",
+      "label": "Teenage Lobotomy",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://teenagelobotomy.bandcamp.com/\"><b>Teenage Lobotomy</b></a> are related to 2 bands: </u> <br><br>Bat Signal<br>Your Crimescene<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Bat Signal",
+      "label": "Bat Signal",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://batsignal.bandcamp.com/\"><b>Bat Signal</b></a> are related to 2 bands: </u> <br><br>Teenage Lobotomy<br>Your Crimescene<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Your Crimescene",
+      "label": "Your Crimescene",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/channel/UCmzonhJw6hpEtR06aqAZfLA\"><b>Your Crimescene</b></a> are related to 2 bands: </u> <br><br>Bat Signal<br>Teenage Lobotomy<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "The You and What Army Faction",
+      "label": "The You and What Army Faction",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://theyouandwhatarmyfaction.bandcamp.com/\"><b>The You and What Army Faction</b></a> are related to 13 bands: </u> <br><br>Bokomolech<br>Bored Witch<br>Calf<br>Canister Jaws<br>Catechumen<br>Dharma Scum<br>Mother Disobedience<br>Sans Corps<br>Shiverdrain<br>Thanatoth<br>Traps of Doom<br>Vanishing Women<br>Weapons of Ass Destruction<br>",
+      "value": 13
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Bokomolech",
+      "label": "Bokomolech",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bokomolech-inner-ear.bandcamp.com/\"><b>Bokomolech</b></a> are related to 1 bands: </u> <br><br>The You and What Army Faction<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "The Coal",
+      "label": "The Coal",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://thecoal.bandcamp.com/\"><b>The Coal</b></a> are related to 8 bands: </u> <br><br>Bonsai Three<br>Bread Crumb<br>Mammock<br>Nibiru<br>Nurse of War<br>Ramdat<br>Sans Corps<br>Αυτοσχεδιαστικό Τρίο<br>",
+      "value": 8
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Bonsai Three",
+      "label": "Bonsai Three",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.facebook.com/bonsaithreeband/\"><b>Bonsai Three</b></a> are related to 1 bands: </u> <br><br>The Coal<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Shiverdrain",
+      "label": "Shiverdrain",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ghostarmour.bandcamp.com/music\"><b>Shiverdrain</b></a> are related to 5 bands: </u> <br><br>Bored Witch<br>Canister Jaws<br>Dharma Scum<br>The You and What Army Faction<br>Vanishing Women<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Bored Witch",
+      "label": "Bored Witch",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://www.moremars.org/release-boredwitch.html\"><b>Bored Witch</b></a> are related to 10 bands: </u> <br><br>Canister Jaws<br>Catechumen<br>Dharma Scum<br>Fervent<br>Shiverdrain<br>Thanatoth<br>The You and What Army Faction<br>Traps of Doom<br>Vanishing Women<br>Weapons of Ass Destruction<br>",
+      "value": 10
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Mammock",
+      "label": "Mammock",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://mammock.bandcamp.com/\"><b>Mammock</b></a> are related to 14 bands: </u> <br><br>Bread Crumb<br>Chain Cult<br>Gutter<br>Junkheart<br>Kalpa<br>Lifewreck<br>Nibiru<br>Nurse of War<br>Ramdat<br>Sans Corps<br>The Coal<br>Timetrap<br>Αρχή του Τέλους<br>Αυτοσχεδιαστικό Τρίο<br>",
+      "value": 14
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Bread Crumb",
+      "label": "Bread Crumb",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://breadcrumbtrio.bandcamp.com/releases\"><b>Bread Crumb</b></a> are related to 5 bands: </u> <br><br>Mammock<br>Nurse of War<br>Sans Corps<br>The Coal<br>Αυτοσχεδιαστικό Τρίο<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Nurse of War",
+      "label": "Nurse of War",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://nurseofwar.bandcamp.com/\"><b>Nurse of War</b></a> are related to 10 bands: </u> <br><br>Bread Crumb<br>Fold the Nuts<br>Mammock<br>Mavro Gala<br>Narcan<br>Ramdat<br>Sans Corps<br>The Coal<br>Αυτοσχεδιαστικό Τρίο<br>ΦΑΛΚΟΝΕΡΑ<br>",
+      "value": 10
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Sans Corps",
+      "label": "Sans Corps",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://sanscorps.bandcamp.com/\"><b>Sans Corps</b></a> are related to 14 bands: </u> <br><br>Bread Crumb<br>Canister Jaws<br>Dustbowl<br>Mammock<br>Mother Disobedience<br>Nibiru<br>Nurse of War<br>Ramdat<br>She Tames Chaos<br>Stained Veil<br>The Coal<br>The You and What Army Faction<br>Αυτοσχεδιαστικό Τρίο<br>Σπυριδούλα<br>",
+      "value": 14
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Ognena",
+      "label": "Ognena",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://speciesproductions.bandcamp.com/album/dogs-cats-and-horny-beasts\"><b>Ognena</b></a> are related to 6 bands: </u> <br><br>BUS<br>Conjecture<br>Gas Masked Lestat<br>Liebchen<br>Project merc<br>We came from waters<br>",
+      "value": 6
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "BUS",
+      "label": "BUS",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bustheunknownsecretary.bandcamp.com/\"><b>BUS</b></a> are related to 2 bands: </u> <br><br>Ognena<br>We came from waters<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "We came from waters",
+      "label": "We came from waters",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/artist/2237850-We-Came-From-Waters\"><b>We came from waters</b></a> are related to 7 bands: </u> <br><br>BUS<br>Conjecture<br>Gas Masked Lestat<br>Liebchen<br>Moldings<br>Ognena<br>Project merc<br>",
+      "value": 7
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Pol Potter",
+      "label": "Pol Potter",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://polpotter.bandcamp.com/\"><b>Pol Potter</b></a> are related to 4 bands: </u> <br><br>CAND<br>The Milwaukee Protocol<br>mob<br>ΠΤΩΜΑΪΝΗ<br>",
+      "value": 4
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "CAND",
+      "label": "CAND",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/artist/3571826-CAND\"><b>CAND</b></a> are related to 4 bands: </u> <br><br>Pol Potter<br>The Milwaukee Protocol<br>mob<br>ΠΤΩΜΑΪΝΗ<br>",
+      "value": 4
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "The Milwaukee Protocol",
+      "label": "The Milwaukee Protocol",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/artist/4471452-Milwaukee-Protocol\"><b>The Milwaukee Protocol</b></a> are related to 4 bands: </u> <br><br>CAND<br>Pol Potter<br>mob<br>ΠΤΩΜΑΪΝΗ<br>",
+      "value": 4
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Kooba Tercu",
+      "label": "Kooba Tercu",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://koobatercu.bandcamp.com/\"><b>Kooba Tercu</b></a> are related to 10 bands: </u> <br><br>Casual Nun<br>Cube<br>Echo Canyon<br>Koonoopomana<br>Masturbation Goes Cloud<br>Misuse<br>Puta Volcano<br>Rita Mosss<br>The Bliss<br>Tropical Geometry<br>",
+      "value": 10
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Casual Nun",
+      "label": "Casual Nun",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://casualnun.bandcamp.com/\"><b>Casual Nun</b></a> are related to 2 bands: </u> <br><br>Kooba Tercu<br>Krause<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Krause",
+      "label": "Krause",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://krause666.bandcamp.com/\"><b>Krause</b></a> are related to 6 bands: </u> <br><br>Casual Nun<br>Install<br>Progress of Inhumanity<br>Rita Mosss<br>Straighthate<br>Vulnus<br>",
+      "value": 6
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Catechumen",
+      "label": "Catechumen",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://falsenoiserecords.bandcamp.com/album/catechumen-s-t\"><b>Catechumen</b></a> are related to 5 bands: </u> <br><br>Bored Witch<br>Canister Jaws<br>Dharma Scum<br>The You and What Army Faction<br>mob<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Lifewreck",
+      "label": "Lifewreck",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://lifewreck.bandcamp.com/\"><b>Lifewreck</b></a> are related to 8 bands: </u> <br><br>Chain Cult<br>Gutter<br>Junkheart<br>Mammock<br>Mother Disobedience<br>Ramdat<br>Timetrap<br>Αρχή του Τέλους<br>",
+      "value": 8
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Chain Cult",
+      "label": "Chain Cult",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://chaincult.bandcamp.com/\"><b>Chain Cult</b></a> are related to 8 bands: </u> <br><br>Gutter<br>Junkheart<br>Lifewreck<br>Mammock<br>Mother Disobedience<br>Ramdat<br>Timetrap<br>Αρχή του Τέλους<br>",
+      "value": 8
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Αρχή του Τέλους",
+      "label": "Αρχή του Τέλους",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://arxi-tou-telous.bandcamp.com/\"><b>Αρχή του Τέλους</b></a> are related to 7 bands: </u> <br><br>Chain Cult<br>Gutter<br>Junkheart<br>Lifewreck<br>Mammock<br>Mother Disobedience<br>Timetrap<br>",
+      "value": 7
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Kid Flicks",
+      "label": "Kid Flicks",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://kidflicks.bandcamp.com/\"><b>Kid Flicks</b></a> are related to 4 bands: </u> <br><br>Canister Jaws<br>Chickn<br>Electric Feat<br>Social End Products<br>",
+      "value": 4
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Prins Obi",
+      "label": "Prins Obi",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://prinsobi-innerear.bandcamp.com/\"><b>Prins Obi</b></a> are related to 3 bands: </u> <br><br>Baby Guru<br>Chickn<br>Electric Feat<br>",
+      "value": 3
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Social End Products",
+      "label": "Social End Products",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://socialendproducts666.bandcamp.com/\"><b>Social End Products</b></a> are related to 4 bands: </u> <br><br>Canister Jaws<br>Chickn<br>Electric Feat<br>Kid Flicks<br>",
+      "value": 4
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Clamor of Existence",
+      "label": "Clamor of Existence",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://clamorofexistence.bandcamp.com/\"><b>Clamor of Existence</b></a> are related to 5 bands: </u> <br><br>Deacidified<br>Humanimal Race<br>L’Hiver<br>Theosis<br>Warcode<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Warcode",
+      "label": "Warcode",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://warcode.bandcamp.com/\"><b>Warcode</b></a> are related to 5 bands: </u> <br><br>Clamor of Existence<br>Deacidified<br>Humanimal Race<br>L’Hiver<br>Theosis<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "The Vicious Sloth Parade",
+      "label": "The Vicious Sloth Parade",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://theviciousslothparade.bandcamp.com/\"><b>The Vicious Sloth Parade</b></a> are related to 2 bands: </u> <br><br>Clayton Alpha<br>Deadfile<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Clayton Alpha",
+      "label": "Clayton Alpha",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://soundcloud.com/clayton-alpha\"><b>Clayton Alpha</b></a> are related to 1 bands: </u> <br><br>The Vicious Sloth Parade<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Cruel Anagrams",
+      "label": "Cruel Anagrams",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://cruelanagrams.bandcamp.com/\"><b>Cruel Anagrams</b></a> are related to 3 bands: </u> <br><br>Canister Jaws<br>Closer<br>S o A n n e F a i r<br>",
+      "value": 3
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Closer",
+      "label": "Closer",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://open.spotify.com/artist/6mNIPP0hRDqaoKJInJdilv\"><b>Closer</b></a> are related to 1 bands: </u> <br><br>Cruel Anagrams<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Traps of Doom",
+      "label": "Traps of Doom",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://trapsofdoom666.bandcamp.com/album/traps-of-doom\"><b>Traps of Doom</b></a> are related to 7 bands: </u> <br><br>Bored Witch<br>Counterblast<br>Dharma Scum<br>Thanatoth<br>The You and What Army Faction<br>Weapons of Ass Destruction<br>cold-i<br>",
+      "value": 7
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "cold-i",
+      "label": "cold-i",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://coldi.bandcamp.com/\"><b>cold-i</b></a> are related to 1 bands: </u> <br><br>Traps of Doom<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Gas Masked Lestat",
+      "label": "Gas Masked Lestat",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://gasmaskedlestat.bandcamp.com/\"><b>Gas Masked Lestat</b></a> are related to 5 bands: </u> <br><br>Conjecture<br>Liebchen<br>Ognena<br>Project merc<br>We came from waters<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Project merc",
+      "label": "Project merc",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://projectmerc.bandcamp.com/music\"><b>Project merc</b></a> are related to 5 bands: </u> <br><br>Conjecture<br>Gas Masked Lestat<br>Liebchen<br>Ognena<br>We came from waters<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Ego Death",
+      "label": "Ego Death",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://egodeathnoise.bandcamp.com/\"><b>Ego Death</b></a> are related to 2 bands: </u> <br><br>Costis Drygiannakis<br>Selefice<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Costis Drygiannakis",
+      "label": "Costis Drygiannakis",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://soundcloud.com/costisdrygianakis\"><b>Costis Drygiannakis</b></a> are related to 9 bands: </u> <br><br>Ego Death<br>Lost Bodies<br>MMMΔ<br>Nikos Veliotis<br>Selefice<br>The Callas<br>Δημοσιοϋπαλληλικό Ρετιρέ<br>Οπτική Μουσική<br>Στάθης Θεοχαράκης<br>",
+      "value": 9
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Counterblast",
+      "label": "Counterblast",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://m.soundcloud.com/counterblast_attack/sets/counterblast-demo-2002\"><b>Counterblast</b></a> are related to 1 bands: </u> <br><br>Traps of Doom<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Show Your Face",
+      "label": "Show Your Face",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://showyourfaceband.bandcamp.com/\"><b>Show Your Face</b></a> are related to 2 bands: </u> <br><br>Cryogenic Activated<br>River Unfed<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Cryogenic Activated",
+      "label": "Cryogenic Activated",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=w8bS7l9hXMk\"><b>Cryogenic Activated</b></a> are related to 3 bands: </u> <br><br>Demonic Horde<br>Ladnah<br>Show Your Face<br>",
+      "value": 3
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Cube",
+      "label": "Cube",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://cube-1.bandcamp.com/\"><b>Cube</b></a> are related to 1 bands: </u> <br><br>Kooba Tercu<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Straighthate",
+      "label": "Straighthate",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/artist/2467384\"><b>Straighthate</b></a> are related to 5 bands: </u> <br><br>Dead Congregation<br>Dephosphorus<br>Krause<br>Παροξυσμός<br>Χειμερία Νάρκη<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Dead Congregation",
+      "label": "Dead Congregation",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://deadcongregation.bandcamp.com/\"><b>Dead Congregation</b></a> are related to 3 bands: </u> <br><br>Straighthate<br>Παροξυσμός<br>Χειμερία Νάρκη<br>",
+      "value": 3
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Demonic Horde",
+      "label": "Demonic Horde",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.metal-archives.com/bands/Demonic_Horde/3540348192\"><b>Demonic Horde</b></a> are related to 2 bands: </u> <br><br>Cryogenic Activated<br>Ladnah<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Dephosphorus",
+      "label": "Dephosphorus",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://dephosphorus.bandcamp.com/\"><b>Dephosphorus</b></a> are related to 1 bands: </u> <br><br>Straighthate<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Lost Bodies",
+      "label": "Lost Bodies",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/artist/673075-Lost-Bodies\"><b>Lost Bodies</b></a> are related to 3 bands: </u> <br><br>Costis Drygiannakis<br>Drog_a_tek<br>Wham Jah<br>",
+      "value": 3
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Drog_a_tek",
+      "label": "Drog_a_tek",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://drogatek.bandcamp.com/releases\"><b>Drog_a_tek</b></a> are related to 1 bands: </u> <br><br>Lost Bodies<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Dustbowl",
+      "label": "Dustbowl",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://thedustbowl.bandcamp.com/\"><b>Dustbowl</b></a> are related to 4 bands: </u> <br><br>Sans Corps<br>She Tames Chaos<br>Stained Veil<br>Σπυριδούλα<br>",
+      "value": 4
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Echo Canyon",
+      "label": "Echo Canyon",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://echocanyon.bandcamp.com/\"><b>Echo Canyon</b></a> are related to 2 bands: </u> <br><br>Kooba Tercu<br>Misuse<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Misuse",
+      "label": "Misuse",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://misuse.bandcamp.com/\"><b>Misuse</b></a> are related to 10 bands: </u> <br><br>Dharma Scum<br>Echo Canyon<br>Jack Heart & the love ghosts<br>Kooba Tercu<br>Masturbation Goes Cloud<br>Nalyssa Green<br>No clear mind<br>Purple Overdose<br>gravitysays_i<br>the dive<br>",
+      "value": 10
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "She Tames Chaos",
+      "label": "She Tames Chaos",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://shetameschaos.bandcamp.com/music\"><b>She Tames Chaos</b></a> are related to 5 bands: </u> <br><br>Dustbowl<br>Echo Tattoo<br>Sans Corps<br>Stained Veil<br>Σπυριδούλα<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Echo Tattoo",
+      "label": "Echo Tattoo",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://echotattoo.bandcamp.com/releases\"><b>Echo Tattoo</b></a> are related to 1 bands: </u> <br><br>She Tames Chaos<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Fervent",
+      "label": "Fervent",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://www.moremars.org/release-fervent.html\"><b>Fervent</b></a> are related to 2 bands: </u> <br><br>Bored Witch<br>Dharma Scum<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Mechanimal",
+      "label": "Mechanimal",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://innerear-mechanimal.bandcamp.com/\"><b>Mechanimal</b></a> are related to 2 bands: </u> <br><br>Film<br>ION<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Film",
+      "label": "Film",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://innerear-film.bandcamp.com/album/eclipse\"><b>Film</b></a> are related to 1 bands: </u> <br><br>Mechanimal<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Fold the Nuts",
+      "label": "Fold the Nuts",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://foldthenuts.bandcamp.com/releases\"><b>Fold the Nuts</b></a> are related to 1 bands: </u> <br><br>Nurse of War<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "gravitysays_i",
+      "label": "gravitysays_i",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://gravitysaysii.bandcamp.com/\"><b>gravitysays_i</b></a> are related to 1 bands: </u> <br><br>Misuse<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Gutter",
+      "label": "Gutter",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://gutterhxc.bandcamp.com/\"><b>Gutter</b></a> are related to 8 bands: </u> <br><br>Chain Cult<br>Junkheart<br>Lifewreck<br>Mammock<br>Mother Disobedience<br>Ramdat<br>Timetrap<br>Αρχή του Τέλους<br>",
+      "value": 8
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Timetrap",
+      "label": "Timetrap",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://timetrapescape.bandcamp.com/\"><b>Timetrap</b></a> are related to 8 bands: </u> <br><br>Chain Cult<br>Gutter<br>Junkheart<br>Lifewreck<br>Mammock<br>Mother Disobedience<br>Ramdat<br>Αρχή του Τέλους<br>",
+      "value": 8
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "L’Hiver",
+      "label": "L’Hiver",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://lhiverofficial.bandcamp.com/music\"><b>L’Hiver</b></a> are related to 8 bands: </u> <br><br>Clamor of Existence<br>Deacidified<br>Human Parasites<br>Humanimal Race<br>Morbid Fog<br>Theosis<br>Vetusmora<br>Warcode<br>",
+      "value": 8
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Human Parasites",
+      "label": "Human Parasites",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://humanparasites.bandcamp.com/\"><b>Human Parasites</b></a> are related to 5 bands: </u> <br><br>L’Hiver<br>Morbid Fog<br>Noir<br>Procrastinate<br>Theosis<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Morbid Fog",
+      "label": "Morbid Fog",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://morbidfogofficial.bandcamp.com/\"><b>Morbid Fog</b></a> are related to 4 bands: </u> <br><br>Human Parasites<br>L’Hiver<br>Theosis<br>Vetusmora<br>",
+      "value": 4
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Noir",
+      "label": "Noir",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://noirbandgreece.bandcamp.com/\"><b>Noir</b></a> are related to 3 bands: </u> <br><br>Human Parasites<br>My Turn<br>Procrastinate<br>",
+      "value": 3
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Theosis",
+      "label": "Theosis",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.metal-archives.com/bands/Theosis/3540366065\"><b>Theosis</b></a> are related to 8 bands: </u> <br><br>Clamor of Existence<br>Deacidified<br>Human Parasites<br>Humanimal Race<br>L’Hiver<br>Morbid Fog<br>Vetusmora<br>Warcode<br>",
+      "value": 8
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Install",
+      "label": "Install",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://music.apple.com/bs/album/may-you-be-happy/713905890\"><b>Install</b></a> are related to 2 bands: </u> <br><br>Krause<br>Rita Mosss<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Rita Mosss",
+      "label": "Rita Mosss",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ritamosss.bandcamp.com/music\"><b>Rita Mosss</b></a> are related to 3 bands: </u> <br><br>Install<br>Kooba Tercu<br>Krause<br>",
+      "value": 3
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "ION",
+      "label": "ION",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ionmusik.bandcamp.com/\"><b>ION</b></a> are related to 1 bands: </u> <br><br>Mechanimal<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Jack Heart & the love ghosts",
+      "label": "Jack Heart & the love ghosts",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://jackheart.bandcamp.com/\"><b>Jack Heart & the love ghosts</b></a> are related to 1 bands: </u> <br><br>Misuse<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Junkheart",
+      "label": "Junkheart",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://junkheart.bandcamp.com/music\"><b>Junkheart</b></a> are related to 8 bands: </u> <br><br>Chain Cult<br>Gutter<br>Lifewreck<br>Mammock<br>Mother Disobedience<br>Ramdat<br>Timetrap<br>Αρχή του Τέλους<br>",
+      "value": 8
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Kalpa",
+      "label": "Kalpa",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://kalpaband.bandcamp.com/\"><b>Kalpa</b></a> are related to 2 bands: </u> <br><br>Mammock<br>Procrastinate<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "King Elephant",
+      "label": "King Elephant",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://innerear.bandcamp.com/album/king-elephant\"><b>King Elephant</b></a> are related to 1 bands: </u> <br><br>Baby Guru<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Koonoopomana",
+      "label": "Koonoopomana",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://koonoopomana.bandcamp.com/releases\"><b>Koonoopomana</b></a> are related to 1 bands: </u> <br><br>Kooba Tercu<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Ladnah",
+      "label": "Ladnah",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://mercyfulhell.bandcamp.com/album/within-dark-realms\"><b>Ladnah</b></a> are related to 2 bands: </u> <br><br>Cryogenic Activated<br>Demonic Horde<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Liebchen",
+      "label": "Liebchen",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://soundcloud.com/liebchen-band\"><b>Liebchen</b></a> are related to 6 bands: </u> <br><br>Conjecture<br>Gas Masked Lestat<br>Ognena<br>Phoenix Catscratch<br>Project merc<br>We came from waters<br>",
+      "value": 6
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Masturbation Goes Cloud",
+      "label": "Masturbation Goes Cloud",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://masturbationgoescloud.bandcamp.com/\"><b>Masturbation Goes Cloud</b></a> are related to 3 bands: </u> <br><br>Kooba Tercu<br>Misuse<br>Tropical Geometry<br>",
+      "value": 3
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Tropical Geometry",
+      "label": "Tropical Geometry",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://err-rec.bandcamp.com/album/ep\"><b>Tropical Geometry</b></a> are related to 2 bands: </u> <br><br>Kooba Tercu<br>Masturbation Goes Cloud<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Mavro Gala",
+      "label": "Mavro Gala",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://mavrogala.bandcamp.com/\"><b>Mavro Gala</b></a> are related to 1 bands: </u> <br><br>Nurse of War<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Veil",
+      "label": "Veil",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://veildeathmetal.bandcamp.com/\"><b>Veil</b></a> are related to 5 bands: </u> <br><br>Deacidified<br>Deathvalves<br>Mentor<br>Mortal Torment<br>Procrastinate<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Nibiru",
+      "label": "Nibiru",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://nibiru-gr.bandcamp.com/\"><b>Nibiru</b></a> are related to 9 bands: </u> <br><br>Canister Jaws<br>Dharma Scum<br>Mammock<br>Message in a cloud<br>Ramdat<br>Sans Corps<br>The Coal<br>The Tenants<br>Αυτοσχεδιαστικό Τρίο<br>",
+      "value": 9
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Message in a cloud",
+      "label": "Message in a cloud",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://messageinacloud.bandcamp.com/\"><b>Message in a cloud</b></a> are related to 1 bands: </u> <br><br>Nibiru<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Ruined Families",
+      "label": "Ruined Families",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ruinedfamilies.bandcamp.com/\"><b>Ruined Families</b></a> are related to 1 bands: </u> <br><br>Minerva Superduty<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Minerva Superduty",
+      "label": "Minerva Superduty",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://minervasuperduty.bandcamp.com/\"><b>Minerva Superduty</b></a> are related to 1 bands: </u> <br><br>Ruined Families<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "MMMΔ",
+      "label": "MMMΔ",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://mohammadsound.bandcamp.com/\"><b>MMMΔ</b></a> are related to 2 bands: </u> <br><br>Costis Drygiannakis<br>Nikos Veliotis<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Nikos Veliotis",
+      "label": "Nikos Veliotis",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://nikosveliotis.bandcamp.com/\"><b>Nikos Veliotis</b></a> are related to 2 bands: </u> <br><br>Costis Drygiannakis<br>MMMΔ<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "mob",
+      "label": "mob",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://mob-hnw.bandcamp.com/\"><b>mob</b></a> are related to 5 bands: </u> <br><br>CAND<br>Catechumen<br>Pol Potter<br>The Milwaukee Protocol<br>ΠΤΩΜΑΪΝΗ<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Moldings",
+      "label": "Moldings",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://moldings.bandcamp.com/releases\"><b>Moldings</b></a> are related to 1 bands: </u> <br><br>We came from waters<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "MAGAM",
+      "label": "MAGAM",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://thirstyleavesmusic.bandcamp.com/\"><b>MAGAM</b></a> are related to 1 bands: </u> <br><br>moody alien<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "moody alien",
+      "label": "moody alien",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://thirstyleavesmusic.bandcamp.com/\"><b>moody alien</b></a> are related to 1 bands: </u> <br><br>MAGAM<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Mortal Torment",
+      "label": "Mortal Torment",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://mortaltorment.bandcamp.com/\"><b>Mortal Torment</b></a> are related to 2 bands: </u> <br><br>Procrastinate<br>Veil<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Mother Disobedience",
+      "label": "Mother Disobedience",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://motherdisobedience.bandcamp.com/\"><b>Mother Disobedience</b></a> are related to 11 bands: </u> <br><br>Canister Jaws<br>Chain Cult<br>Gutter<br>Junkheart<br>Lifewreck<br>Ramdat<br>Sans Corps<br>Shattered Hope<br>The You and What Army Faction<br>Timetrap<br>Αρχή του Τέλους<br>",
+      "value": 11
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "My Turn",
+      "label": "My Turn",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://myturn.bandcamp.com/\"><b>My Turn</b></a> are related to 1 bands: </u> <br><br>Noir<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Nalyssa Green",
+      "label": "Nalyssa Green",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://nalyssagreen.bandcamp.com/\"><b>Nalyssa Green</b></a> are related to 1 bands: </u> <br><br>Misuse<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Narcan",
+      "label": "Narcan",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://narcan.bandcamp.com/music\"><b>Narcan</b></a> are related to 1 bands: </u> <br><br>Nurse of War<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "No clear mind",
+      "label": "No clear mind",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://noclearmind.bandcamp.com/\"><b>No clear mind</b></a> are related to 1 bands: </u> <br><br>Misuse<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Outward Bound Trio",
+      "label": "Outward Bound Trio",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.facebook.com/outwardboundtrio/\"><b>Outward Bound Trio</b></a> are related to 1 bands: </u> <br><br>Αυτοσχεδιαστικό Τρίο<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Vanishing Women",
+      "label": "Vanishing Women",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://soundcloud.com/user-742925105\"><b>Vanishing Women</b></a> are related to 6 bands: </u> <br><br>Bored Witch<br>Canister Jaws<br>Dharma Scum<br>Penny Dreadful<br>Shiverdrain<br>The You and What Army Faction<br>",
+      "value": 6
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Penny Dreadful",
+      "label": "Penny Dreadful",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://pennydreadful1.bandcamp.com/\"><b>Penny Dreadful</b></a> are related to 1 bands: </u> <br><br>Vanishing Women<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Phoenix Catscratch",
+      "label": "Phoenix Catscratch",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/artist/2011303-Phoenix-Catscratch\"><b>Phoenix Catscratch</b></a> are related to 3 bands: </u> <br><br>Liebchen<br>Strawberry Pills<br>ΟΔΟΣ 55<br>",
+      "value": 3
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Progress of Inhumanity",
+      "label": "Progress of Inhumanity",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://progressofinhumanity.bandcamp.com/\"><b>Progress of Inhumanity</b></a> are related to 2 bands: </u> <br><br>Krause<br>Vulnus<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Vulnus",
+      "label": "Vulnus",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://vulnus.bandcamp.com/\"><b>Vulnus</b></a> are related to 2 bands: </u> <br><br>Krause<br>Progress of Inhumanity<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Purple Overdose",
+      "label": "Purple Overdose",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/artist/1188587-Purple-Overdose-2\"><b>Purple Overdose</b></a> are related to 1 bands: </u> <br><br>Misuse<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Puta Volcano",
+      "label": "Puta Volcano",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://putavolcano.bandcamp.com/\"><b>Puta Volcano</b></a> are related to 2 bands: </u> <br><br>Kooba Tercu<br>The Bliss<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "The Bliss",
+      "label": "The Bliss",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/The-Bliss-Gabbatha/release/3456873\"><b>The Bliss</b></a> are related to 2 bands: </u> <br><br>Kooba Tercu<br>Puta Volcano<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "River Unfed",
+      "label": "River Unfed",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/user/riverunfed?feature=mhee\"><b>River Unfed</b></a> are related to 1 bands: </u> <br><br>Show Your Face<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "S o A n n e F a i r",
+      "label": "S o A n n e F a i r",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://soannefair.bandcamp.com/releases\"><b>S o A n n e F a i r</b></a> are related to 1 bands: </u> <br><br>Cruel Anagrams<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Selefice",
+      "label": "Selefice",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://selefice.bandcamp.com/\"><b>Selefice</b></a> are related to 2 bands: </u> <br><br>Costis Drygiannakis<br>Ego Death<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Septuagin",
+      "label": "Septuagin",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://septuagint666.bandcamp.com/\"><b>Septuagin</b></a> are related to 1 bands: </u> <br><br>Conjecture<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Shattered Hope",
+      "label": "Shattered Hope",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://shatteredhope.bandcamp.com/\"><b>Shattered Hope</b></a> are related to 1 bands: </u> <br><br>Mother Disobedience<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Stained Veil",
+      "label": "Stained Veil",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.facebook.com/StainedVeil/\"><b>Stained Veil</b></a> are related to 4 bands: </u> <br><br>Dustbowl<br>Sans Corps<br>She Tames Chaos<br>Σπυριδούλα<br>",
+      "value": 4
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Σπυριδούλα",
+      "label": "Σπυριδούλα",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.facebook.com/%CE%A3%CE%A0%CE%A5%CE%A1%CE%99%CE%94%CE%9F%CE%A5%CE%9B%CE%91-140951685953039/\"><b>Σπυριδούλα</b></a> are related to 4 bands: </u> <br><br>Dustbowl<br>Sans Corps<br>She Tames Chaos<br>Stained Veil<br>",
+      "value": 4
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Strawberry Pills",
+      "label": "Strawberry Pills",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://strawberrypills.bandcamp.com/\"><b>Strawberry Pills</b></a> are related to 1 bands: </u> <br><br>Phoenix Catscratch<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Strovili Quintet",
+      "label": "Strovili Quintet",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.facebook.com/Strovili-371916466207447/\"><b>Strovili Quintet</b></a> are related to 1 bands: </u> <br><br>Αυτοσχεδιαστικό Τρίο<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Thanatoth",
+      "label": "Thanatoth",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://thanatoth.bandcamp.com/\"><b>Thanatoth</b></a> are related to 5 bands: </u> <br><br>Bored Witch<br>Dharma Scum<br>The You and What Army Faction<br>Traps of Doom<br>Weapons of Ass Destruction<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "The Callas",
+      "label": "The Callas",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://thecallasband.bandcamp.com/\"><b>The Callas</b></a> are related to 1 bands: </u> <br><br>Costis Drygiannakis<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "the dive",
+      "label": "the dive",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://thedive.bandcamp.com/\"><b>the dive</b></a> are related to 1 bands: </u> <br><br>Misuse<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "sister",
+      "label": "sister",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://sister-gr.bandcamp.com/\"><b>sister</b></a> are related to 1 bands: </u> <br><br>The Periods.<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "The Periods.",
+      "label": "The Periods.",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://theperiods.bandcamp.com/\"><b>The Periods.</b></a> are related to 1 bands: </u> <br><br>sister<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "The Tenants",
+      "label": "The Tenants",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://tenantsgr.bandcamp.com/\"><b>The Tenants</b></a> are related to 1 bands: </u> <br><br>Nibiru<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Deadfile",
+      "label": "Deadfile",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://deadfile.bandcamp.com/\"><b>Deadfile</b></a> are related to 2 bands: </u> <br><br>The Vicious Sloth Parade<br>Τα παιδιά της παλαιότητας<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Nerrves",
+      "label": "Nerrves",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://nerrves.bandcamp.com/\"><b>Nerrves</b></a> are related to 1 bands: </u> <br><br>Vancouver<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Vancouver",
+      "label": "Vancouver",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://vancouvergr.bandcamp.com/\"><b>Vancouver</b></a> are related to 1 bands: </u> <br><br>Nerrves<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Vetusmora",
+      "label": "Vetusmora",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.metal-archives.com/bands/Vetusmora/3540360508\"><b>Vetusmora</b></a> are related to 3 bands: </u> <br><br>L’Hiver<br>Morbid Fog<br>Theosis<br>",
+      "value": 3
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Weapons of Ass Destruction",
+      "label": "Weapons of Ass Destruction",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://m.soundcloud.com/weapons-ofass-destruction\"><b>Weapons of Ass Destruction</b></a> are related to 5 bands: </u> <br><br>Bored Witch<br>Dharma Scum<br>Thanatoth<br>The You and What Army Faction<br>Traps of Doom<br>",
+      "value": 5
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Wham Jah",
+      "label": "Wham Jah",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://whamjah.bandcamp.com/\"><b>Wham Jah</b></a> are related to 1 bands: </u> <br><br>Lost Bodies<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Δημοσιοϋπαλληλικό Ρετιρέ",
+      "label": "Δημοσιοϋπαλληλικό Ρετιρέ",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/artist/287853-Dimosioypalliliko-Retire\"><b>Δημοσιοϋπαλληλικό Ρετιρέ</b></a> are related to 1 bands: </u> <br><br>Costis Drygiannakis<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "ΟΔΟΣ 55",
+      "label": "ΟΔΟΣ 55",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://odos55.bandcamp.com/\"><b>ΟΔΟΣ 55</b></a> are related to 1 bands: </u> <br><br>Phoenix Catscratch<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Οπτική Μουσική",
+      "label": "Οπτική Μουσική",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/artist/1398932-%CE%9F%CF%80%CF%84%CE%B9%CE%BA%CE%AE-%CE%9C%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AE\"><b>Οπτική Μουσική</b></a> are related to 1 bands: </u> <br><br>Costis Drygiannakis<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Παροξυσμός",
+      "label": "Παροξυσμός",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://paroksysmos.bandcamp.com/\"><b>Παροξυσμός</b></a> are related to 2 bands: </u> <br><br>Dead Congregation<br>Straighthate<br>",
+      "value": 2
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "ΠΤΩΜΑΪΝΗ",
+      "label": "ΠΤΩΜΑΪΝΗ",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ptomaine.bandcamp.com/releases\"><b>ΠΤΩΜΑΪΝΗ</b></a> are related to 4 bands: </u> <br><br>CAND<br>Pol Potter<br>The Milwaukee Protocol<br>mob<br>",
+      "value": 4
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Στάθης Θεοχαράκης",
+      "label": "Στάθης Θεοχαράκης",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/artist/750609-%CE%A3%CF%84%CE%AC%CE%B8%CE%B7%CF%82-%CE%98%CE%B5%CE%BF%CF%87%CE%B1%CF%81%CE%AC%CE%BA%CE%B7%CF%82\"><b>Στάθης Θεοχαράκης</b></a> are related to 1 bands: </u> <br><br>Costis Drygiannakis<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Τα παιδιά της παλαιότητας",
+      "label": "Τα παιδιά της παλαιότητας",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://paidiatispalaiotitas.bandcamp.com/\"><b>Τα παιδιά της παλαιότητας</b></a> are related to 1 bands: </u> <br><br>Deadfile<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "ΦΑΛΚΟΝΕΡΑ",
+      "label": "ΦΑΛΚΟΝΕΡΑ",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://falkonera.bandcamp.com/releases\"><b>ΦΑΛΚΟΝΕΡΑ</b></a> are related to 1 bands: </u> <br><br>Nurse of War<br>",
+      "value": 1
+    },
+    {
+      "font": {
+        "color": "white"
+      },
+      "id": "Χειμερία Νάρκη",
+      "label": "Χειμερία Νάρκη",
+      "shape": "dot",
+      "title": "<u><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://hibernationcrust.bandcamp.com/releases\"><b>Χειμερία Νάρκη</b></a> are related to 2 bands: </u> <br><br>Dead Congregation<br>Straighthate<br>",
+      "value": 2
+    }
+  ],
+  "edges": [
+    {
+      "from": "Chickn",
+      "to": "A Victim of Society",
+      "value": 1
+    },
+    {
+      "from": "Canister Jaws",
+      "to": "Adolf Plays the Jazz",
+      "value": 3
+    },
+    {
+      "from": "Dharma Scum",
+      "to": "Adolf Plays the Jazz",
+      "value": 1
+    },
+    {
+      "from": "Ramdat",
+      "to": "Adolf Plays the Jazz",
+      "value": 1
+    },
+    {
+      "from": "Procrastinate",
+      "to": "Ädrallä",
+      "value": 1
+    },
+    {
+      "from": "Conjecture",
+      "to": "Aenaon",
+      "value": 1
+    },
+    {
+      "from": "Calf",
+      "to": "Akantha",
+      "value": 1
+    },
+    {
+      "from": "Deacidified",
+      "to": "Akantha",
+      "value": 1
+    },
+    {
+      "from": "Deathvalves",
+      "to": "Akantha",
+      "value": 1
+    },
+    {
+      "from": "Humanimal Race",
+      "to": "Akantha",
+      "value": 1
+    },
+    {
+      "from": "Mentor",
+      "to": "Akantha",
+      "value": 2
+    },
+    {
+      "from": "Adolf Plays the Jazz",
+      "to": "Amberclock",
+      "value": 1
+    },
+    {
+      "from": "Ädrallä",
+      "to": "Ania",
+      "value": 1
+    },
+    {
+      "from": "Procrastinate",
+      "to": "Ania",
+      "value": 1
+    },
+    {
+      "from": "Allochiria",
+      "to": "Anticluster",
+      "value": 1
+    },
+    {
+      "from": "Αυτοσχεδιαστικό Τρίο",
+      "to": "Avlos",
+      "value": 1
+    },
+    {
+      "from": "Electric Feat",
+      "to": "Baby Guru",
+      "value": 1
+    },
+    {
+      "from": "Teenage Lobotomy",
+      "to": "Bat Signal",
+      "value": 2
+    },
+    {
+      "from": "Your Crimescene",
+      "to": "Bat Signal",
+      "value": 3
+    },
+    {
+      "from": "The You and What Army Faction",
+      "to": "Bokomolech",
+      "value": 1
+    },
+    {
+      "from": "The Coal",
+      "to": "Bonsai Three",
+      "value": 1
+    },
+    {
+      "from": "Shiverdrain",
+      "to": "Bored Witch",
+      "value": 1
+    },
+    {
+      "from": "The You and What Army Faction",
+      "to": "Bored Witch",
+      "value": 3
+    },
+    {
+      "from": "Mammock",
+      "to": "Bread Crumb",
+      "value": 2
+    },
+    {
+      "from": "Nurse of War",
+      "to": "Bread Crumb",
+      "value": 1
+    },
+    {
+      "from": "Sans Corps",
+      "to": "Bread Crumb",
+      "value": 1
+    },
+    {
+      "from": "The Coal",
+      "to": "Bread Crumb",
+      "value": 1
+    },
+    {
+      "from": "Αυτοσχεδιαστικό Τρίο",
+      "to": "Bread Crumb",
+      "value": 1
+    },
+    {
+      "from": "Ognena",
+      "to": "BUS",
+      "value": 1
+    },
+    {
+      "from": "We came from waters",
+      "to": "BUS",
+      "value": 1
+    },
+    {
+      "from": "The You and What Army Faction",
+      "to": "Calf",
+      "value": 1
+    },
+    {
+      "from": "Pol Potter",
+      "to": "CAND",
+      "value": 1
+    },
+    {
+      "from": "The Milwaukee Protocol",
+      "to": "CAND",
+      "value": 1
+    },
+    {
+      "from": "Bored Witch",
+      "to": "Canister Jaws",
+      "value": 2
+    },
+    {
+      "from": "Shiverdrain",
+      "to": "Canister Jaws",
+      "value": 1
+    },
+    {
+      "from": "The You and What Army Faction",
+      "to": "Canister Jaws",
+      "value": 3
+    },
+    {
+      "from": "Kooba Tercu",
+      "to": "Casual Nun",
+      "value": 1
+    },
+    {
+      "from": "Krause",
+      "to": "Casual Nun",
+      "value": 1
+    },
+    {
+      "from": "Bored Witch",
+      "to": "Catechumen",
+      "value": 1
+    },
+    {
+      "from": "Canister Jaws",
+      "to": "Catechumen",
+      "value": 1
+    },
+    {
+      "from": "Dharma Scum",
+      "to": "Catechumen",
+      "value": 1
+    },
+    {
+      "from": "The You and What Army Faction",
+      "to": "Catechumen",
+      "value": 1
+    },
+    {
+      "from": "Lifewreck",
+      "to": "Chain Cult",
+      "value": 1
+    },
+    {
+      "from": "Mammock",
+      "to": "Chain Cult",
+      "value": 1
+    },
+    {
+      "from": "Αρχή του Τέλους",
+      "to": "Chain Cult",
+      "value": 1
+    },
+    {
+      "from": "Baby Guru",
+      "to": "Chickn",
+      "value": 2
+    },
+    {
+      "from": "Canister Jaws",
+      "to": "Chickn",
+      "value": 1
+    },
+    {
+      "from": "Kid Flicks",
+      "to": "Chickn",
+      "value": 1
+    },
+    {
+      "from": "Prins Obi",
+      "to": "Chickn",
+      "value": 1
+    },
+    {
+      "from": "Social End Products",
+      "to": "Chickn",
+      "value": 1
+    },
+    {
+      "from": "Deacidified",
+      "to": "Clamor of Existence",
+      "value": 1
+    },
+    {
+      "from": "Humanimal Race",
+      "to": "Clamor of Existence",
+      "value": 1
+    },
+    {
+      "from": "Warcode",
+      "to": "Clamor of Existence",
+      "value": 1
+    },
+    {
+      "from": "The Vicious Sloth Parade",
+      "to": "Clayton Alpha",
+      "value": 1
+    },
+    {
+      "from": "Cruel Anagrams",
+      "to": "Closer",
+      "value": 1
+    },
+    {
+      "from": "Traps of Doom",
+      "to": "cold-i",
+      "value": 1
+    },
+    {
+      "from": "Gas Masked Lestat",
+      "to": "Conjecture",
+      "value": 1
+    },
+    {
+      "from": "Ognena",
+      "to": "Conjecture",
+      "value": 1
+    },
+    {
+      "from": "Project merc",
+      "to": "Conjecture",
+      "value": 1
+    },
+    {
+      "from": "We came from waters",
+      "to": "Conjecture",
+      "value": 1
+    },
+    {
+      "from": "Ego Death",
+      "to": "Costis Drygiannakis",
+      "value": 1
+    },
+    {
+      "from": "Traps of Doom",
+      "to": "Counterblast",
+      "value": 1
+    },
+    {
+      "from": "Canister Jaws",
+      "to": "Cruel Anagrams",
+      "value": 2
+    },
+    {
+      "from": "Show Your Face",
+      "to": "Cryogenic Activated",
+      "value": 2
+    },
+    {
+      "from": "Kooba Tercu",
+      "to": "Cube",
+      "value": 3
+    },
+    {
+      "from": "Calf",
+      "to": "Deacidified",
+      "value": 1
+    },
+    {
+      "from": "Procrastinate",
+      "to": "Deacidified",
+      "value": 1
+    },
+    {
+      "from": "Straighthate",
+      "to": "Dead Congregation",
+      "value": 1
+    },
+    {
+      "from": "Calf",
+      "to": "Deathvalves",
+      "value": 1
+    },
+    {
+      "from": "Deacidified",
+      "to": "Deathvalves",
+      "value": 1
+    },
+    {
+      "from": "Procrastinate",
+      "to": "Deathvalves",
+      "value": 1
+    },
+    {
+      "from": "Cryogenic Activated",
+      "to": "Demonic Horde",
+      "value": 1
+    },
+    {
+      "from": "Straighthate",
+      "to": "Dephosphorus",
+      "value": 2
+    },
+    {
+      "from": "Bored Witch",
+      "to": "Dharma Scum",
+      "value": 3
+    },
+    {
+      "from": "Canister Jaws",
+      "to": "Dharma Scum",
+      "value": 3
+    },
+    {
+      "from": "The You and What Army Faction",
+      "to": "Dharma Scum",
+      "value": 3
+    },
+    {
+      "from": "Lost Bodies",
+      "to": "Drog_a_tek",
+      "value": 1
+    },
+    {
+      "from": "Sans Corps",
+      "to": "Dustbowl",
+      "value": 1
+    },
+    {
+      "from": "Kooba Tercu",
+      "to": "Echo Canyon",
+      "value": 1
+    },
+    {
+      "from": "Misuse",
+      "to": "Echo Canyon",
+      "value": 1
+    },
+    {
+      "from": "She Tames Chaos",
+      "to": "Echo Tattoo",
+      "value": 1
+    },
+    {
+      "from": "Canister Jaws",
+      "to": "Electric Feat",
+      "value": 1
+    },
+    {
+      "from": "Chickn",
+      "to": "Electric Feat",
+      "value": 1
+    },
+    {
+      "from": "Kid Flicks",
+      "to": "Electric Feat",
+      "value": 1
+    },
+    {
+      "from": "Prins Obi",
+      "to": "Electric Feat",
+      "value": 1
+    },
+    {
+      "from": "Social End Products",
+      "to": "Electric Feat",
+      "value": 1
+    },
+    {
+      "from": "Bored Witch",
+      "to": "Fervent",
+      "value": 1
+    },
+    {
+      "from": "Dharma Scum",
+      "to": "Fervent",
+      "value": 1
+    },
+    {
+      "from": "Mechanimal",
+      "to": "Film",
+      "value": 1
+    },
+    {
+      "from": "Nurse of War",
+      "to": "Fold the Nuts",
+      "value": 1
+    },
+    {
+      "from": "Project merc",
+      "to": "Gas Masked Lestat",
+      "value": 1
+    },
+    {
+      "from": "Misuse",
+      "to": "gravitysays_i",
+      "value": 1
+    },
+    {
+      "from": "Chain Cult",
+      "to": "Gutter",
+      "value": 1
+    },
+    {
+      "from": "Lifewreck",
+      "to": "Gutter",
+      "value": 1
+    },
+    {
+      "from": "Mammock",
+      "to": "Gutter",
+      "value": 1
+    },
+    {
+      "from": "Timetrap",
+      "to": "Gutter",
+      "value": 1
+    },
+    {
+      "from": "Αρχή του Τέλους",
+      "to": "Gutter",
+      "value": 1
+    },
+    {
+      "from": "L’Hiver",
+      "to": "Human Parasites",
+      "value": 1
+    },
+    {
+      "from": "Morbid Fog",
+      "to": "Human Parasites",
+      "value": 1
+    },
+    {
+      "from": "Noir",
+      "to": "Human Parasites",
+      "value": 1
+    },
+    {
+      "from": "Procrastinate",
+      "to": "Human Parasites",
+      "value": 1
+    },
+    {
+      "from": "Theosis",
+      "to": "Human Parasites",
+      "value": 1
+    },
+    {
+      "from": "Deacidified",
+      "to": "Humanimal Race",
+      "value": 1
+    },
+    {
+      "from": "Deathvalves",
+      "to": "Humanimal Race",
+      "value": 1
+    },
+    {
+      "from": "Warcode",
+      "to": "Humanimal Race",
+      "value": 1
+    },
+    {
+      "from": "Krause",
+      "to": "Install",
+      "value": 1
+    },
+    {
+      "from": "Rita Mosss",
+      "to": "Install",
+      "value": 2
+    },
+    {
+      "from": "Mechanimal",
+      "to": "ION",
+      "value": 1
+    },
+    {
+      "from": "Misuse",
+      "to": "Jack Heart & the love ghosts",
+      "value": 1
+    },
+    {
+      "from": "Chain Cult",
+      "to": "Junkheart",
+      "value": 1
+    },
+    {
+      "from": "Gutter",
+      "to": "Junkheart",
+      "value": 1
+    },
+    {
+      "from": "Lifewreck",
+      "to": "Junkheart",
+      "value": 1
+    },
+    {
+      "from": "Mammock",
+      "to": "Junkheart",
+      "value": 1
+    },
+    {
+      "from": "Timetrap",
+      "to": "Junkheart",
+      "value": 1
+    },
+    {
+      "from": "Αρχή του Τέλους",
+      "to": "Junkheart",
+      "value": 1
+    },
+    {
+      "from": "Mammock",
+      "to": "Kalpa",
+      "value": 1
+    },
+    {
+      "from": "Canister Jaws",
+      "to": "Kid Flicks",
+      "value": 1
+    },
+    {
+      "from": "Social End Products",
+      "to": "Kid Flicks",
+      "value": 1
+    },
+    {
+      "from": "Baby Guru",
+      "to": "King Elephant",
+      "value": 1
+    },
+    {
+      "from": "Kooba Tercu",
+      "to": "Koonoopomana",
+      "value": 1
+    },
+    {
+      "from": "Rita Mosss",
+      "to": "Krause",
+      "value": 1
+    },
+    {
+      "from": "Clamor of Existence",
+      "to": "L’Hiver",
+      "value": 1
+    },
+    {
+      "from": "Deacidified",
+      "to": "L’Hiver",
+      "value": 1
+    },
+    {
+      "from": "Humanimal Race",
+      "to": "L’Hiver",
+      "value": 1
+    },
+    {
+      "from": "Morbid Fog",
+      "to": "L’Hiver",
+      "value": 1
+    },
+    {
+      "from": "Theosis",
+      "to": "L’Hiver",
+      "value": 3
+    },
+    {
+      "from": "Warcode",
+      "to": "L’Hiver",
+      "value": 1
+    },
+    {
+      "from": "Cryogenic Activated",
+      "to": "Ladnah",
+      "value": 1
+    },
+    {
+      "from": "Demonic Horde",
+      "to": "Ladnah",
+      "value": 1
+    },
+    {
+      "from": "Conjecture",
+      "to": "Liebchen",
+      "value": 1
+    },
+    {
+      "from": "Gas Masked Lestat",
+      "to": "Liebchen",
+      "value": 1
+    },
+    {
+      "from": "Ognena",
+      "to": "Liebchen",
+      "value": 1
+    },
+    {
+      "from": "Project merc",
+      "to": "Liebchen",
+      "value": 1
+    },
+    {
+      "from": "We came from waters",
+      "to": "Liebchen",
+      "value": 1
+    },
+    {
+      "from": "Mammock",
+      "to": "Lifewreck",
+      "value": 1
+    },
+    {
+      "from": "Αρχή του Τέλους",
+      "to": "Lifewreck",
+      "value": 1
+    },
+    {
+      "from": "Costis Drygiannakis",
+      "to": "Lost Bodies",
+      "value": 1
+    },
+    {
+      "from": "Sans Corps",
+      "to": "Mammock",
+      "value": 1
+    },
+    {
+      "from": "Αρχή του Τέλους",
+      "to": "Mammock",
+      "value": 1
+    },
+    {
+      "from": "Αυτοσχεδιαστικό Τρίο",
+      "to": "Mammock",
+      "value": 1
+    },
+    {
+      "from": "Kooba Tercu",
+      "to": "Masturbation Goes Cloud",
+      "value": 2
+    },
+    {
+      "from": "Misuse",
+      "to": "Masturbation Goes Cloud",
+      "value": 1
+    },
+    {
+      "from": "Tropical Geometry",
+      "to": "Masturbation Goes Cloud",
+      "value": 1
+    },
+    {
+      "from": "Nurse of War",
+      "to": "Mavro Gala",
+      "value": 1
+    },
+    {
+      "from": "Calf",
+      "to": "Mentor",
+      "value": 1
+    },
+    {
+      "from": "Deacidified",
+      "to": "Mentor",
+      "value": 2
+    },
+    {
+      "from": "Deathvalves",
+      "to": "Mentor",
+      "value": 1
+    },
+    {
+      "from": "Humanimal Race",
+      "to": "Mentor",
+      "value": 1
+    },
+    {
+      "from": "Veil",
+      "to": "Mentor",
+      "value": 1
+    },
+    {
+      "from": "Nibiru",
+      "to": "Message in a cloud",
+      "value": 1
+    },
+    {
+      "from": "Ruined Families",
+      "to": "Minerva Superduty",
+      "value": 1
+    },
+    {
+      "from": "Dharma Scum",
+      "to": "Misuse",
+      "value": 1
+    },
+    {
+      "from": "Kooba Tercu",
+      "to": "Misuse",
+      "value": 1
+    },
+    {
+      "from": "Costis Drygiannakis",
+      "to": "MMMΔ",
+      "value": 1
+    },
+    {
+      "from": "Nikos Veliotis",
+      "to": "MMMΔ",
+      "value": 1
+    },
+    {
+      "from": "CAND",
+      "to": "mob",
+      "value": 1
+    },
+    {
+      "from": "Catechumen",
+      "to": "mob",
+      "value": 1
+    },
+    {
+      "from": "The Milwaukee Protocol",
+      "to": "mob",
+      "value": 1
+    },
+    {
+      "from": "We came from waters",
+      "to": "Moldings",
+      "value": 1
+    },
+    {
+      "from": "MAGAM",
+      "to": "moody alien",
+      "value": 1
+    },
+    {
+      "from": "Procrastinate",
+      "to": "Mortal Torment",
+      "value": 1
+    },
+    {
+      "from": "Canister Jaws",
+      "to": "Mother Disobedience",
+      "value": 1
+    },
+    {
+      "from": "Chain Cult",
+      "to": "Mother Disobedience",
+      "value": 1
+    },
+    {
+      "from": "Gutter",
+      "to": "Mother Disobedience",
+      "value": 1
+    },
+    {
+      "from": "Junkheart",
+      "to": "Mother Disobedience",
+      "value": 1
+    },
+    {
+      "from": "Lifewreck",
+      "to": "Mother Disobedience",
+      "value": 1
+    },
+    {
+      "from": "Sans Corps",
+      "to": "Mother Disobedience",
+      "value": 1
+    },
+    {
+      "from": "The You and What Army Faction",
+      "to": "Mother Disobedience",
+      "value": 1
+    },
+    {
+      "from": "Timetrap",
+      "to": "Mother Disobedience",
+      "value": 1
+    },
+    {
+      "from": "Noir",
+      "to": "My Turn",
+      "value": 1
+    },
+    {
+      "from": "Misuse",
+      "to": "Nalyssa Green",
+      "value": 1
+    },
+    {
+      "from": "Nurse of War",
+      "to": "Narcan",
+      "value": 1
+    },
+    {
+      "from": "Canister Jaws",
+      "to": "Nibiru",
+      "value": 1
+    },
+    {
+      "from": "Dharma Scum",
+      "to": "Nibiru",
+      "value": 1
+    },
+    {
+      "from": "Mammock",
+      "to": "Nibiru",
+      "value": 1
+    },
+    {
+      "from": "Ramdat",
+      "to": "Nibiru",
+      "value": 2
+    },
+    {
+      "from": "Sans Corps",
+      "to": "Nibiru",
+      "value": 2
+    },
+    {
+      "from": "The Coal",
+      "to": "Nibiru",
+      "value": 1
+    },
+    {
+      "from": "Αυτοσχεδιαστικό Τρίο",
+      "to": "Nibiru",
+      "value": 1
+    },
+    {
+      "from": "Costis Drygiannakis",
+      "to": "Nikos Veliotis",
+      "value": 1
+    },
+    {
+      "from": "Misuse",
+      "to": "No clear mind",
+      "value": 1
+    },
+    {
+      "from": "Procrastinate",
+      "to": "Noir",
+      "value": 2
+    },
+    {
+      "from": "Mammock",
+      "to": "Nurse of War",
+      "value": 1
+    },
+    {
+      "from": "Sans Corps",
+      "to": "Nurse of War",
+      "value": 1
+    },
+    {
+      "from": "The Coal",
+      "to": "Nurse of War",
+      "value": 1
+    },
+    {
+      "from": "Αυτοσχεδιαστικό Τρίο",
+      "to": "Nurse of War",
+      "value": 1
+    },
+    {
+      "from": "Gas Masked Lestat",
+      "to": "Ognena",
+      "value": 1
+    },
+    {
+      "from": "Project merc",
+      "to": "Ognena",
+      "value": 1
+    },
+    {
+      "from": "We came from waters",
+      "to": "Ognena",
+      "value": 2
+    },
+    {
+      "from": "Αυτοσχεδιαστικό Τρίο",
+      "to": "Outward Bound Trio",
+      "value": 1
+    },
+    {
+      "from": "Vanishing Women",
+      "to": "Penny Dreadful",
+      "value": 1
+    },
+    {
+      "from": "Liebchen",
+      "to": "Phoenix Catscratch",
+      "value": 1
+    },
+    {
+      "from": "mob",
+      "to": "Pol Potter",
+      "value": 1
+    },
+    {
+      "from": "The Milwaukee Protocol",
+      "to": "Pol Potter",
+      "value": 1
+    },
+    {
+      "from": "Baby Guru",
+      "to": "Prins Obi",
+      "value": 1
+    },
+    {
+      "from": "Calf",
+      "to": "Procrastinate",
+      "value": 1
+    },
+    {
+      "from": "Kalpa",
+      "to": "Procrastinate",
+      "value": 1
+    },
+    {
+      "from": "Krause",
+      "to": "Progress of Inhumanity",
+      "value": 1
+    },
+    {
+      "from": "Vulnus",
+      "to": "Progress of Inhumanity",
+      "value": 1
+    },
+    {
+      "from": "Misuse",
+      "to": "Purple Overdose",
+      "value": 1
+    },
+    {
+      "from": "Kooba Tercu",
+      "to": "Puta Volcano",
+      "value": 1
+    },
+    {
+      "from": "The Bliss",
+      "to": "Puta Volcano",
+      "value": 1
+    },
+    {
+      "from": "Canister Jaws",
+      "to": "Ramdat",
+      "value": 1
+    },
+    {
+      "from": "Chain Cult",
+      "to": "Ramdat",
+      "value": 1
+    },
+    {
+      "from": "Dharma Scum",
+      "to": "Ramdat",
+      "value": 1
+    },
+    {
+      "from": "Gutter",
+      "to": "Ramdat",
+      "value": 1
+    },
+    {
+      "from": "Junkheart",
+      "to": "Ramdat",
+      "value": 1
+    },
+    {
+      "from": "Lifewreck",
+      "to": "Ramdat",
+      "value": 1
+    },
+    {
+      "from": "Mammock",
+      "to": "Ramdat",
+      "value": 2
+    },
+    {
+      "from": "Mother Disobedience",
+      "to": "Ramdat",
+      "value": 1
+    },
+    {
+      "from": "Nurse of War",
+      "to": "Ramdat",
+      "value": 1
+    },
+    {
+      "from": "Sans Corps",
+      "to": "Ramdat",
+      "value": 2
+    },
+    {
+      "from": "Timetrap",
+      "to": "Ramdat",
+      "value": 1
+    },
+    {
+      "from": "Αυτοσχεδιαστικό Τρίο",
+      "to": "Ramdat",
+      "value": 2
+    },
+    {
+      "from": "Kooba Tercu",
+      "to": "Rita Mosss",
+      "value": 1
+    },
+    {
+      "from": "Show Your Face",
+      "to": "River Unfed",
+      "value": 1
+    },
+    {
+      "from": "Cruel Anagrams",
+      "to": "S o A n n e F a i r",
+      "value": 1
+    },
+    {
+      "from": "Canister Jaws",
+      "to": "Sans Corps",
+      "value": 2
+    },
+    {
+      "from": "The You and What Army Faction",
+      "to": "Sans Corps",
+      "value": 1
+    },
+    {
+      "from": "Αυτοσχεδιαστικό Τρίο",
+      "to": "Sans Corps",
+      "value": 1
+    },
+    {
+      "from": "Costis Drygiannakis",
+      "to": "Selefice",
+      "value": 1
+    },
+    {
+      "from": "Ego Death",
+      "to": "Selefice",
+      "value": 1
+    },
+    {
+      "from": "Conjecture",
+      "to": "Septuagin",
+      "value": 1
+    },
+    {
+      "from": "Mother Disobedience",
+      "to": "Shattered Hope",
+      "value": 2
+    },
+    {
+      "from": "Dustbowl",
+      "to": "She Tames Chaos",
+      "value": 1
+    },
+    {
+      "from": "Sans Corps",
+      "to": "She Tames Chaos",
+      "value": 1
+    },
+    {
+      "from": "Stained Veil",
+      "to": "She Tames Chaos",
+      "value": 1
+    },
+    {
+      "from": "Σπυριδούλα",
+      "to": "She Tames Chaos",
+      "value": 1
+    },
+    {
+      "from": "Dharma Scum",
+      "to": "Shiverdrain",
+      "value": 1
+    },
+    {
+      "from": "The You and What Army Faction",
+      "to": "Shiverdrain",
+      "value": 1
+    },
+    {
+      "from": "Canister Jaws",
+      "to": "Social End Products",
+      "value": 1
+    },
+    {
+      "from": "Dustbowl",
+      "to": "Stained Veil",
+      "value": 1
+    },
+    {
+      "from": "Sans Corps",
+      "to": "Stained Veil",
+      "value": 1
+    },
+    {
+      "from": "Krause",
+      "to": "Straighthate",
+      "value": 2
+    },
+    {
+      "from": "Phoenix Catscratch",
+      "to": "Strawberry Pills",
+      "value": 1
+    },
+    {
+      "from": "Αυτοσχεδιαστικό Τρίο",
+      "to": "Strovili Quintet",
+      "value": 1
+    },
+    {
+      "from": "Bored Witch",
+      "to": "Thanatoth",
+      "value": 1
+    },
+    {
+      "from": "Dharma Scum",
+      "to": "Thanatoth",
+      "value": 1
+    },
+    {
+      "from": "The You and What Army Faction",
+      "to": "Thanatoth",
+      "value": 1
+    },
+    {
+      "from": "Kooba Tercu",
+      "to": "The Bliss",
+      "value": 1
+    },
+    {
+      "from": "Costis Drygiannakis",
+      "to": "The Callas",
+      "value": 1
+    },
+    {
+      "from": "Mammock",
+      "to": "The Coal",
+      "value": 1
+    },
+    {
+      "from": "Ramdat",
+      "to": "The Coal",
+      "value": 1
+    },
+    {
+      "from": "Sans Corps",
+      "to": "The Coal",
+      "value": 1
+    },
+    {
+      "from": "Αυτοσχεδιαστικό Τρίο",
+      "to": "The Coal",
+      "value": 1
+    },
+    {
+      "from": "Misuse",
+      "to": "the dive",
+      "value": 1
+    },
+    {
+      "from": "sister",
+      "to": "The Periods.",
+      "value": 1
+    },
+    {
+      "from": "Nibiru",
+      "to": "The Tenants",
+      "value": 1
+    },
+    {
+      "from": "Deadfile",
+      "to": "The Vicious Sloth Parade",
+      "value": 1
+    },
+    {
+      "from": "Clamor of Existence",
+      "to": "Theosis",
+      "value": 1
+    },
+    {
+      "from": "Deacidified",
+      "to": "Theosis",
+      "value": 1
+    },
+    {
+      "from": "Humanimal Race",
+      "to": "Theosis",
+      "value": 1
+    },
+    {
+      "from": "Morbid Fog",
+      "to": "Theosis",
+      "value": 1
+    },
+    {
+      "from": "Warcode",
+      "to": "Theosis",
+      "value": 1
+    },
+    {
+      "from": "Chain Cult",
+      "to": "Timetrap",
+      "value": 1
+    },
+    {
+      "from": "Lifewreck",
+      "to": "Timetrap",
+      "value": 1
+    },
+    {
+      "from": "Mammock",
+      "to": "Timetrap",
+      "value": 1
+    },
+    {
+      "from": "Αρχή του Τέλους",
+      "to": "Timetrap",
+      "value": 1
+    },
+    {
+      "from": "Bored Witch",
+      "to": "Traps of Doom",
+      "value": 1
+    },
+    {
+      "from": "Dharma Scum",
+      "to": "Traps of Doom",
+      "value": 1
+    },
+    {
+      "from": "Thanatoth",
+      "to": "Traps of Doom",
+      "value": 1
+    },
+    {
+      "from": "The You and What Army Faction",
+      "to": "Traps of Doom",
+      "value": 1
+    },
+    {
+      "from": "Kooba Tercu",
+      "to": "Tropical Geometry",
+      "value": 1
+    },
+    {
+      "from": "Nerrves",
+      "to": "Vancouver",
+      "value": 2
+    },
+    {
+      "from": "Bored Witch",
+      "to": "Vanishing Women",
+      "value": 1
+    },
+    {
+      "from": "Canister Jaws",
+      "to": "Vanishing Women",
+      "value": 1
+    },
+    {
+      "from": "Dharma Scum",
+      "to": "Vanishing Women",
+      "value": 1
+    },
+    {
+      "from": "Shiverdrain",
+      "to": "Vanishing Women",
+      "value": 1
+    },
+    {
+      "from": "The You and What Army Faction",
+      "to": "Vanishing Women",
+      "value": 1
+    },
+    {
+      "from": "Deacidified",
+      "to": "Veil",
+      "value": 2
+    },
+    {
+      "from": "Deathvalves",
+      "to": "Veil",
+      "value": 1
+    },
+    {
+      "from": "Mortal Torment",
+      "to": "Veil",
+      "value": 1
+    },
+    {
+      "from": "Procrastinate",
+      "to": "Veil",
+      "value": 2
+    },
+    {
+      "from": "L’Hiver",
+      "to": "Vetusmora",
+      "value": 1
+    },
+    {
+      "from": "Morbid Fog",
+      "to": "Vetusmora",
+      "value": 1
+    },
+    {
+      "from": "Theosis",
+      "to": "Vetusmora",
+      "value": 1
+    },
+    {
+      "from": "Krause",
+      "to": "Vulnus",
+      "value": 1
+    },
+    {
+      "from": "Deacidified",
+      "to": "Warcode",
+      "value": 1
+    },
+    {
+      "from": "Gas Masked Lestat",
+      "to": "We came from waters",
+      "value": 1
+    },
+    {
+      "from": "Project merc",
+      "to": "We came from waters",
+      "value": 1
+    },
+    {
+      "from": "Bored Witch",
+      "to": "Weapons of Ass Destruction",
+      "value": 1
+    },
+    {
+      "from": "Dharma Scum",
+      "to": "Weapons of Ass Destruction",
+      "value": 1
+    },
+    {
+      "from": "Thanatoth",
+      "to": "Weapons of Ass Destruction",
+      "value": 1
+    },
+    {
+      "from": "The You and What Army Faction",
+      "to": "Weapons of Ass Destruction",
+      "value": 1
+    },
+    {
+      "from": "Traps of Doom",
+      "to": "Weapons of Ass Destruction",
+      "value": 1
+    },
+    {
+      "from": "Lost Bodies",
+      "to": "Wham Jah",
+      "value": 1
+    },
+    {
+      "from": "Teenage Lobotomy",
+      "to": "Your Crimescene",
+      "value": 3
+    },
+    {
+      "from": "Mother Disobedience",
+      "to": "Αρχή του Τέλους",
+      "value": 2
+    },
+    {
+      "from": "Costis Drygiannakis",
+      "to": "Δημοσιοϋπαλληλικό Ρετιρέ",
+      "value": 2
+    },
+    {
+      "from": "Phoenix Catscratch",
+      "to": "ΟΔΟΣ 55",
+      "value": 1
+    },
+    {
+      "from": "Costis Drygiannakis",
+      "to": "Οπτική Μουσική",
+      "value": 1
+    },
+    {
+      "from": "Dead Congregation",
+      "to": "Παροξυσμός",
+      "value": 2
+    },
+    {
+      "from": "Straighthate",
+      "to": "Παροξυσμός",
+      "value": 1
+    },
+    {
+      "from": "CAND",
+      "to": "ΠΤΩΜΑΪΝΗ",
+      "value": 1
+    },
+    {
+      "from": "mob",
+      "to": "ΠΤΩΜΑΪΝΗ",
+      "value": 2
+    },
+    {
+      "from": "Pol Potter",
+      "to": "ΠΤΩΜΑΪΝΗ",
+      "value": 1
+    },
+    {
+      "from": "The Milwaukee Protocol",
+      "to": "ΠΤΩΜΑΪΝΗ",
+      "value": 1
+    },
+    {
+      "from": "Dustbowl",
+      "to": "Σπυριδούλα",
+      "value": 1
+    },
+    {
+      "from": "Sans Corps",
+      "to": "Σπυριδούλα",
+      "value": 1
+    },
+    {
+      "from": "Stained Veil",
+      "to": "Σπυριδούλα",
+      "value": 1
+    },
+    {
+      "from": "Costis Drygiannakis",
+      "to": "Στάθης Θεοχαράκης",
+      "value": 1
+    },
+    {
+      "from": "Deadfile",
+      "to": "Τα παιδιά της παλαιότητας",
+      "value": 1
+    },
+    {
+      "from": "Nurse of War",
+      "to": "ΦΑΛΚΟΝΕΡΑ",
+      "value": 1
+    },
+    {
+      "from": "Dead Congregation",
+      "to": "Χειμερία Νάρκη",
+      "value": 2
+    },
+    {
+      "from": "Straighthate",
+      "to": "Χειμερία Νάρκη",
+      "value": 2
+    }
+  ]
+}

@@ -1,37 +1,38 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
+
 body {
-    margin: 0;
-    overflow: hidden;
-    /*background: #222;*/
-    /*font-family: 'Work Sans', sans-serif;*/
-    /*font-weight: 800;*/
+  margin: 0;
+}
+
+#body_graph {
+  overflow: hidden;
 }
 
 .container {
-    width: 80%;
-    margin: 0 auto;
-
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 header {
   background: #ffffff;
-  /*font-family: 'Work Sans', sans-serif;*/
   font-weight: 800;
   width: 100%;
   z-index: 100;
   position: fixed;
+  top: 0;
 }
 
 header::after {
   content: '';
   display: table;
   clear: both;
-
 }
 
 .logo {
   float: left;
-  padding: 0px 0;
+  margin: 0;
+  padding: 0;
   font-weight: 800;
   font-size: 18pt;
 }
@@ -48,9 +49,8 @@ nav ul {
 
 nav li {
   display: inline-block;
-  margin-left: 70px;
+  margin-left: 40px;
   padding-top: 23px;
-
   position: relative;
 }
 
@@ -62,8 +62,11 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #8c8c8c
-;
+  color: #8c8c8c;
+}
+
+nav ul li a[aria-current="page"] {
+  color: #0044cc;
 }
 
 nav ul li a::before {
@@ -71,55 +74,95 @@ nav ul li a::before {
   display: block;
   height: 3px;
   background-color: #000;
-
   position: relative;
   top: 0;
   width: 0%;
-
   transition: all ease-in-out 250ms;
 }
 
-nav ul li a:hover::before {
+nav ul li a:hover::before,
+nav ul li a:focus::before {
   width: 100%;
 }
 
 a {
   color: #0044cc;
   text-decoration: none;
-  text-transform: uppercase;
-
 }
 
-#corner {
-  /*font-family: 'Work Sans', sans-serif;*/
-  font-size:12px;
-  background:transparent;
-  bottom:0px;
-  right:10px;
-  position:fixed;
-  color: #ffffff;
+#about a {
+  color: #66aaff;
+  text-transform: none;
+}
+
+#about a:hover {
+  text-decoration: underline;
 }
 
 div li {
   list-style: none;
 }
 
-button{
+button {
   border: none;
+  cursor: pointer;
 }
 
-
-#about{
-  /*margin:100px;*/
-  /*position: relative;*/
-  color:#ffffff;
+#about {
+  color: #ffffff;
   font-weight: 500;
   font-size: 13pt;
-  padding-top: 100px;
+  padding-top: 120px;
+  padding-bottom: 60px;
   margin-left: 15%;
   margin-right: 15%;
+  line-height: 1.5;
 }
 
-#body_a{
+#about h2,
+#about h3 {
+  margin-top: 1.6em;
+  margin-bottom: 0.4em;
+}
+
+#about h3 {
+  font-size: 1.05em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #cccccc;
+}
+
+#about .byline {
+  margin-top: 3em;
+  font-style: italic;
+  text-align: center;
+  color: #aaaaaa;
+}
+
+#body_a {
   background-color: #222222;
+}
+
+@media (max-width: 640px) {
+  .logo {
+    float: none;
+    font-size: 14pt;
+    text-align: center;
+    padding-top: 12px;
+  }
+  nav {
+    float: none;
+    text-align: center;
+  }
+  nav li {
+    margin-left: 16px;
+    margin-right: 16px;
+    padding-top: 8px;
+  }
+  #about {
+    margin-left: 6%;
+    margin-right: 6%;
+    padding-top: 140px;
+    font-size: 12pt;
+  }
 }
