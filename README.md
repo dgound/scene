@@ -18,7 +18,7 @@ Edges are weighted based on the number of members that are shared between two ba
 Nodes are weighted by the number of neighbors. Larger nodes correspond to bands that have larger number of collaborations/side-projects.
 
 ### Tools:
-The graph was created using the pyvis python library. The output was post-produced using HTML5 and CSS3.
+The initial graph was generated with the [pyvis](https://pyvis.readthedocs.io/) Python library, which produces a [vis-network](https://visjs.github.io/vis-network/docs/network/) HTML scaffold. The nodes and edges were extracted into a standalone `data/scene.js` file (exposed as `window.SCENE_DATA`) so they can be edited without touching markup. The rest of the site — layout, search, loading state, themed tooltip, and dark UI — is hand-written HTML, CSS, and vanilla JavaScript, with IBM Plex Mono and Inter via Google Fonts. vis-network is loaded from CDN with SRI integrity hashes.
 
 Project layout
 --------------
