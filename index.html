@@ -8,7 +8,7 @@
   <meta property="og:title" content="./SCENE — a data-driven archive">
   <meta property="og:description" content="A graph-based archive of the Greek underground music scene.">
   <meta property="og:type" content="website">
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23222'/%3E%3Ctext x='16' y='22' font-family='monospace' font-size='18' font-weight='700' text-anchor='middle' fill='%23fff'%3E./S%3C/text%3E%3C/svg%3E">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%230a0a0a'/%3E%3Ctext x='16' y='22' font-family='monospace' font-size='16' font-weight='600' text-anchor='middle' fill='%23b6f44d'%3E./S%3C/text%3E%3C/svg%3E">
 
   <link rel="stylesheet" href="styles.css" type="text/css">
   <link rel="stylesheet"
@@ -20,93 +20,208 @@
           crossorigin="anonymous"></script>
 
   <style>
-    #mynetwork {
-      width: 100%;
-      height: 750px;
-      background-color: #222222;
-      border: 1px solid lightgray;
-      position: relative;
+    /* Search bar and graph canvas are both position:fixed with integer
+       offsets so neither element can resize when web fonts swap in.
+       (A previous flex layout caused the canvas to drift as fonts loaded.) */
+    main { display: contents; }
+
+    .search-bar {
+      position: fixed;
+      top: var(--header-h);
+      left: 0;
+      right: 0;
+      height: 58px;
+      padding: 0 24px;
+      border-bottom: 1px solid var(--border);
+      background: var(--bg);
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      white-space: nowrap;
+      overflow: hidden;
+      z-index: 20;
     }
+    .search-bar .prompt {
+      font-family: var(--mono);
+      color: var(--accent);
+      font-size: 13px;
+      letter-spacing: 0.02em;
+      user-select: none;
+    }
+    .search-bar input {
+      flex: 1;
+      min-width: 200px;
+      padding: 6px 0;
+      border: none;
+      border-bottom: 1px solid var(--border-strong);
+      background: transparent;
+      color: var(--text);
+      font-family: var(--mono);
+      font-size: 14px;
+      transition: border-color 150ms ease;
+    }
+    .search-bar input::placeholder {
+      color: var(--text-muted);
+    }
+    .search-bar input:focus {
+      outline: none;
+      border-bottom-color: var(--accent);
+    }
+    .search-meta {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--text-muted);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    #mynetwork {
+      position: fixed;
+      top: calc(var(--header-h) + 58px);
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: var(--bg);
+    }
+
     #loadingBar {
       position: absolute;
       inset: 0;
-      height: 750px;
-      background-color: rgba(200, 200, 200, 0.8);
-      transition: all 0.5s ease;
+      background: var(--bg);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      transition: opacity 0.4s ease;
       opacity: 1;
+      z-index: 5;
+    }
+    .loadingBar-track {
+      width: min(360px, 70vw);
+      height: 1px;
+      background: var(--border-strong);
+      position: relative;
+      overflow: hidden;
     }
     #bar {
       position: absolute;
-      top: 0; left: 0;
-      width: 20px;
-      height: 20px;
-      border-radius: 11px;
-      border: 2px solid rgba(30, 30, 30, 0.05);
-      background: rgb(0, 173, 246);
-      box-shadow: 2px 0px 4px rgba(0, 0, 0, 0.4);
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 0;
+      background: var(--accent);
+      transition: width 80ms linear;
     }
     #text {
-      position: absolute;
-      top: 8px;
-      left: 50%;
-      transform: translateX(-50%);
-      font-size: 22px;
-      color: #000;
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: 0.15em;
+      color: var(--text-muted);
+      text-transform: uppercase;
     }
-    div.outerBorder {
-      position: relative;
-      top: 400px;
-      width: min(600px, 90vw);
-      height: 44px;
-      margin: 0 auto;
-      border: 8px solid rgba(0, 0, 0, 0.1);
-      background: linear-gradient(to bottom, #fcfcfc 0%, #ededed 100%);
-      border-radius: 72px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    }
+
     .popup {
       position: absolute;
       top: 0; left: 0;
       display: none;
-      background-color: #f5f4ed;
-      border-radius: 3px;
-      border: 1px solid #808074;
-      box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
-      padding: 8px 10px;
+      background: var(--surface);
+      color: var(--text);
+      border: 1px solid var(--border-strong);
+      padding: 12px 14px;
+      font-size: 13px;
+      line-height: 1.5;
       max-width: 320px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+      z-index: 10;
+      font-family: var(--sans);
     }
+    .popup u {
+      text-decoration: none;
+      display: block;
+      padding-bottom: 8px;
+      margin-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+    }
+    .popup u b { font-weight: 500; color: var(--text); text-transform: none; letter-spacing: normal; font-family: var(--sans); font-size: 14px; }
+    .popup a { color: var(--accent); border-bottom: 1px solid transparent; transition: border-color 150ms ease; }
+    .popup a:hover { border-bottom-color: var(--accent); }
     .vis-network-tooltip { display: none; }
 
-    .search-bar {
-      padding: 16px 24px;
-      background: #222;
-      color: #fff;
-      display: flex;
-      gap: 12px;
-      align-items: center;
-      flex-wrap: wrap;
-    }
-    .search-bar label { font-size: 14px; text-transform: uppercase; }
-    .search-bar input {
-      flex: 1;
-      min-width: 200px;
-      padding: 8px 10px;
-      border: 1px solid #444;
-      background: #111;
-      color: #fff;
-      font-size: 14px;
-    }
-
-    #corner {
-      font-size: 12px;
-      background: transparent;
-      bottom: 0;
-      right: 10px;
+    .help-card {
       position: fixed;
-      color: #ffffff;
-      max-width: 360px;
+      bottom: 20px;
+      right: 20px;
+      width: 280px;
+      background: var(--surface);
+      border: 1px solid var(--border-strong);
+      padding: 16px 18px;
+      font-family: var(--mono);
+      font-size: 11px;
+      line-height: 1.7;
+      letter-spacing: 0.02em;
+      color: var(--text-muted);
+      z-index: 50;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
     }
-    #corner ul { padding: 0 16px; }
+    .help-card[hidden] { display: none; }
+    .help-card .head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+      color: var(--text);
+      font-size: 10px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+    }
+    .help-card .head button {
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      padding: 0;
+      width: 18px;
+      height: 18px;
+      line-height: 1;
+      font-size: 14px;
+      cursor: pointer;
+    }
+    .help-card .head button:hover { color: var(--accent); }
+    .help-card ul { list-style: none; padding: 0; margin: 0; }
+    .help-card li { padding: 2px 0; }
+    .help-card li::before { content: '› '; color: var(--text-muted); }
+
+    .help-toggle {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 32px;
+      height: 32px;
+      border: 1px solid var(--border-strong);
+      background: var(--surface);
+      color: var(--text-muted);
+      font-family: var(--mono);
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      z-index: 50;
+      transition: color 150ms ease, border-color 150ms ease;
+    }
+    .help-toggle:hover { color: var(--accent); border-color: var(--text-muted); }
+    .help-toggle[hidden] { display: none; }
+
+    @media (max-width: 640px) {
+      .search-bar { padding: 14px 16px; }
+      .help-card { left: 16px; right: 16px; bottom: 16px; width: auto; }
+      .help-toggle { right: 16px; bottom: 16px; }
+    }
   </style>
 </head>
 
@@ -115,36 +230,51 @@
 
   <main>
     <div class="search-bar">
-      <label for="search">Find a band:</label>
-      <input id="search" type="text" list="band-list" autocomplete="off" placeholder="Start typing…">
+      <span class="prompt" aria-hidden="true">./find</span>
+      <input id="search" type="text" list="band-list" autocomplete="off" placeholder="band name…" aria-label="Find a band">
       <datalist id="band-list"></datalist>
+      <span class="search-meta" id="search-meta"></span>
     </div>
 
     <div id="mynetwork" role="application" aria-label="Band collaboration graph"></div>
 
     <div id="loadingBar" aria-hidden="true">
-      <div class="outerBorder">
-        <div id="text">0%</div>
-        <div id="border">
-          <div id="bar"></div>
-        </div>
-      </div>
+      <div id="text">stabilizing · 0%</div>
+      <div class="loadingBar-track"><div id="bar"></div></div>
     </div>
   </main>
 
-  <div id="corner">
+  <aside id="help" class="help-card" aria-labelledby="help-title">
+    <div class="head">
+      <span id="help-title">controls</span>
+      <button type="button" id="help-close" aria-label="Hide help">×</button>
+    </div>
     <ul>
-      <button type="button" onclick="document.getElementById('corner').style.display='none'">Hide help</button>
-      <li>Use mouse wheel or scroll gestures to zoom in/out.</li>
-      <li>Click and drag a node to move it.</li>
-      <li>Click on the background and drag to navigate.</li>
-      <li>Hover a node to open the info panel.</li>
-      <li>Click the band's name to visit their webpage.</li>
-      <li>Use the search box above to jump to a band.</li>
+      <li>scroll to zoom</li>
+      <li>drag a node to move it</li>
+      <li>drag background to pan</li>
+      <li>hover a node for info</li>
+      <li>click the band name to open page</li>
+      <li>use ./find to jump to a band</li>
     </ul>
-  </div>
+  </aside>
+  <button type="button" id="help-open" class="help-toggle" aria-label="Show help" hidden>?</button>
 
-  <script src="js/header.js"></script>
-  <script src="js/graph.js"></script>
+  <script src="js/header.js?v=8"></script>
+  <script src="data/scene.js?v=8"></script>
+  <script src="js/graph.js?v=8"></script>
+  <script>
+    (function () {
+      var card = document.getElementById('help');
+      var toggle = document.getElementById('help-open');
+      var close = document.getElementById('help-close');
+      function setOpen(open) {
+        card.hidden = !open;
+        toggle.hidden = open;
+      }
+      close.addEventListener('click', function () { setOpen(false); });
+      toggle.addEventListener('click', function () { setOpen(true); });
+    })();
+  </script>
 </body>
 </html>

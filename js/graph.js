@@ -1,6 +1,9 @@
 (function () {
   var nodes, edges, network;
 
+  // Options kept close to the pyvis-original. Visual tweaks (node color, edge
+  // color) are applied per-item below rather than via global option overrides,
+  // which previously caused the layout to drift after stabilization.
   var options = {
     configure: { enabled: false },
     edges: {
@@ -10,9 +13,7 @@
     interaction: {
       dragNodes: true,
       hideEdgesOnDrag: false,
-      hideNodesOnDrag: false,
-      keyboard: { enabled: true, bindToWindow: false },
-      tooltipDelay: 100
+      hideNodesOnDrag: false
     },
     physics: {
       barnesHut: {
@@ -78,19 +79,15 @@
     if (!bar || !text || !loadingBar) return;
 
     network.on('stabilizationProgress', function (params) {
-      loadingBar.removeAttribute('style');
-      var maxWidth = 496;
-      var minWidth = 20;
-      var widthFactor = params.iterations / params.total;
-      var width = Math.max(minWidth, maxWidth * widthFactor);
-      bar.style.width = width + 'px';
-      text.innerHTML = Math.round(widthFactor * 100) + '%';
+      var pct = Math.round((params.iterations / params.total) * 100);
+      bar.style.width = pct + '%';
+      text.textContent = 'stabilizing · ' + pct + '%';
     });
     network.once('stabilizationIterationsDone', function () {
-      text.innerHTML = '100%';
-      bar.style.width = '496px';
+      bar.style.width = '100%';
+      text.textContent = 'ready';
       loadingBar.style.opacity = 0;
-      setTimeout(function () { loadingBar.style.display = 'none'; }, 500);
+      setTimeout(function () { loadingBar.style.display = 'none'; }, 400);
     });
   }
 
@@ -116,7 +113,7 @@
       var node = nodes.get(name);
       if (!node) return;
       network.selectNodes([name]);
-      network.focus(name, { scale: 1.2, animation: { duration: 600, easingFunction: 'easeInOutQuad' } });
+      network.focus(name, { scale: 1.2, animation: false });
     }
 
     input.addEventListener('change', function () { focusBand(input.value); });
@@ -130,9 +127,12 @@
     nodes = new vis.DataSet(payload.nodes);
     edges = new vis.DataSet(payload.edges);
     network = new vis.Network(container, { nodes: nodes, edges: edges }, options);
+    window.network = network; // debug handle
     buildPopup(container);
     wireLoadingBar();
     wireSearch();
+    var meta = document.getElementById('search-meta');
+    if (meta) meta.textContent = payload.nodes.length + ' bands · ' + payload.edges.length + ' edges';
   }
 
   function showError(msg) {
@@ -143,13 +143,9 @@
     container.style.padding = '2rem';
   }
 
-  fetch('data/scene.json', { cache: 'no-cache' })
-    .then(function (r) {
-      if (!r.ok) throw new Error('HTTP ' + r.status);
-      return r.json();
-    })
-    .then(drawGraph)
-    .catch(function (err) {
-      showError('Could not load scene data: ' + err.message);
-    });
+  if (window.SCENE_DATA) {
+    drawGraph(window.SCENE_DATA);
+  } else {
+    showError('Could not load scene data: data/scene.js missing.');
+  }
 })();

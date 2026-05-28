@@ -1,4 +1,4 @@
-{
+window.SCENE_DATA = {
   "nodes": [
     {
       "font": {
@@ -3138,4 +3138,4 @@
       "value": 2
     }
   ]
-}
+};

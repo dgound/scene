@@ -24,15 +24,15 @@ Project layout
 --------------
 
 ```
-index.html       graph page (loads data/scene.json via fetch)
+index.html       graph page
 about.html       about page
 styles.css       shared styles
-data/scene.json  nodes + edges, generated from the pyvis output
+data/scene.js    nodes + edges (defines window.SCENE_DATA so file:// works)
 js/header.js     shared header (rendered into <header data-shared>)
 js/graph.js      vis-network bootstrap, popup, search, loading bar
 ```
 
-To update the archive, edit `data/scene.json` directly (no HTML changes needed) or regenerate from pyvis and re-extract.
+To update the archive, edit the data inside `data/scene.js` (after `window.SCENE_DATA = `) directly — no HTML changes needed — or regenerate from pyvis and re-extract.
 
 
 ./SCENE is a work in progress. If you would like to submit info for additional bands or provide feedback/corrections/etc, please write to: dgkounta (at) gmail (dot) com.

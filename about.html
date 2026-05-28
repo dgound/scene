@@ -8,7 +8,7 @@
   <meta property="og:title" content="About — ./SCENE">
   <meta property="og:description" content="A graph-based archive of the Greek underground music scene.">
   <meta property="og:type" content="website">
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23222'/%3E%3Ctext x='16' y='22' font-family='monospace' font-size='18' font-weight='700' text-anchor='middle' fill='%23fff'%3E./S%3C/text%3E%3C/svg%3E">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%230a0a0a'/%3E%3Ctext x='16' y='22' font-family='monospace' font-size='16' font-weight='600' text-anchor='middle' fill='%23b6f44d'%3E./S%3C/text%3E%3C/svg%3E">
   <link rel="stylesheet" href="styles.css" type="text/css">
 </head>
 
@@ -21,20 +21,21 @@
     <h2>Method</h2>
 
     <h3>Graph</h3>
-    <p>The scene is modelled as a graph where each node represents a band. For the moment, only bands that have at least one EP released are considered.</p>
+    <p>The scene is modelled as a graph in which each node represents a band. For the moment, only bands that have released at least one EP are considered.</p>
 
-    <h3>Nodes and edges</h3>
-    <p>An edge is placed between two nodes if they share at least one band member (either as a full-time member or as a guest on an official release).</p>
+    <h3>Nodes &amp; edges</h3>
+    <p>An edge connects two nodes whenever they share at least one member — whether a permanent member or a guest on an official release.</p>
 
     <h3>Weights</h3>
-    <p>Edges are weighted by the number of members shared between two bands — thicker edges correspond to more shared members. Nodes are sized by their number of neighbours, so larger nodes correspond to bands with more collaborations and side projects.</p>
+    <p>Edges are weighted by the number of members shared between two bands. Thicker edges mean more shared members. Nodes are sized by their number of neighbours, so larger nodes belong to bands with more collaborations and side projects.</p>
 
     <h3>Tools</h3>
-    <p>The graph was created using the <a href="https://pyvis.readthedocs.io/" rel="noopener noreferrer">pyvis</a> Python library. The output was post-produced with HTML5 and CSS3.</p>
+    <p>The graph was created with the <a href="https://pyvis.readthedocs.io/" rel="noopener noreferrer">pyvis</a> Python library and post-produced with HTML and CSS.</p>
 
-    <p>./SCENE is a work in progress. If you would like to submit info for additional bands or provide feedback/corrections, please write to: <a id="contact" href="#">enable JavaScript for email</a>.</p>
+    <h2>Contribute</h2>
+    <p>./SCENE is a work in progress. If you would like to submit info for additional bands or send feedback or corrections, write to <a id="contact" href="#">enable JavaScript for email</a>.</p>
 
-    <p class="byline">Dimos Goundaroulis, May 2020, Houston TX USA.</p>
+    <p class="byline">Dimos Goundaroulis — May 2020, Houston TX</p>
   </main>
 
   <script src="js/header.js"></script>
